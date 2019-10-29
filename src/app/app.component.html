@@ -1,21 +1,172 @@
-<!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
-  <h1>
-    Welcome to {{ title }}!
-  </h1>
-  <img width="300" alt="Angular Logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
-</div>
-<h2>Here are some links to help you start: </h2>
-<ul>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://angular.io/tutorial">Tour of Heroes</a></h2>
-  </li>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://angular.io/cli">CLI Documentation</a></h2>
-  </li>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a></h2>
-  </li>
-</ul>
+<header id="header" class="header">
+  <div class="header-nav" >
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <nav class="main-menu">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar top-bar"></span>
+                <span class="icon-bar middle-bar"></span>
+                <span class="icon-bar bottom-bar"></span>
+              </button>
+              <a class="navbar-brand" href="index.html">
+                <img class="logo logo-white" src="../assets/images/logo-nav.png" alt="logo">
+                <img class="logo logo-color" src="../assets/images/logo-color.jpg" alt="logo">
+              </a>
+            </div><!--End navbar-header -->
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#service">Interests</a></li>
+<!--                <li><a href="#portfolio">Portfolio</a></li>-->
+<!--                <li><a href="#pricingtable">Pricing</a></li>-->
+                <li><a href="#blog">Blog</a></li>
+<!--                <li><a class="last" href="#contact">Contact</a></li>-->
+              </ul>
+            </div><!--End navbar -->
+          </nav>
+        </div><!--End col -->
+      </div><!--End row -->
+    </div><!--End container -->
+  </div><!--End header-nav -->
+</header>
 
 <router-outlet></router-outlet>
+
+
+<footer id="footer" class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="footer-top clearfix">
+<!--        <div class="col-sm-4">-->
+<!--          <div class="columnbottom-margin subscribe-form-wrap">-->
+<!--            <h4 class="widget-title">Subscribe <span>NewsLetter</span></h4>-->
+<!--            <p>By subscribing to our mailing list you will always get latest news from us.</p>-->
+<!--            &lt;!&ndash; start mailchimp form &ndash;&gt;-->
+<!--            <div class="mc-form-holder">-->
+<!--              <form id="mc-form">-->
+<!--                <input id="mc-email" class="form-control" placeholder="email address" name="EMAIL" type="email">-->
+<!--                <button class="btn" type="submit"><i class="fa fa-paper-plane"></i></button>-->
+<!--                <label for="mc-email"></label>-->
+<!--              </form>-->
+<!--            </div>-->
+<!--            &lt;!&ndash; end mailchimp form &ndash;&gt;-->
+<!--          </div>&lt;!&ndash; end subscribe-form-wrap &ndash;&gt;-->
+<!--        </div>&lt;!&ndash; end col &ndash;&gt;-->
+<!--        <div class="col-sm-4">-->
+<!--          <div class="columnbottom-margin recent-work-wrap">-->
+<!--            <h4 class="widget-title">Recent <span>Work</span></h4>-->
+<!--            <div class="latest-pfolio">-->
+<!--              <div class="col-xs-4 no-space">-->
+<!--                <div class="portfolio-wrapper">-->
+<!--                  <img src="../assets/images/portfolio/thumb/3.jpg" alt="Portfolio Title">-->
+<!--                  <div class="portfolio-overlay">-->
+<!--                    <div class="portfolio-overlay-inner">-->
+<!--                      <div class="portfolio-overlay-content">-->
+<!--                        <div class="portfolio-link">-->
+<!--                          <a title="Details" href="single-portfolio.html"><i class="fa fa-link"></i></a>-->
+<!--                          <a data-lightbox="recentwork" data-title="Image Preview" href="../assets/images/portfolio/3.jpg"><i class="fa fa-search-plus"></i></a>-->
+<!--                        </div>&lt;!&ndash;End portfolio-link &ndash;&gt;-->
+<!--                      </div>&lt;!&ndash;End portfolio-overlay-content &ndash;&gt;-->
+<!--                    </div>&lt;!&ndash;End portfolio-overlay-inner &ndash;&gt;-->
+<!--                  </div>&lt;!&ndash;End portfolio-overlay &ndash;&gt;-->
+<!--                </div>&lt;!&ndash;End portfolio-wrapper &ndash;&gt;-->
+<!--              </div>&lt;!&ndash;End ./col- &ndash;&gt;-->
+<!--              <div class="col-xs-4 no-space">-->
+<!--                <div class="portfolio-wrapper">-->
+<!--                  <img src="../assets/images/portfolio/thumb/6.jpg" alt="Portfolio Title">-->
+<!--                  <div class="portfolio-overlay">-->
+<!--                    <div class="portfolio-overlay-inner">-->
+<!--                      <div class="portfolio-overlay-content">-->
+<!--                        <div class="portfolio-link">-->
+<!--                          <a title="Details" href="single-portfolio.html"><i class="fa fa-link"></i></a>-->
+<!--                          <a data-lightbox="recentwork" data-title="Image Preview" href="../assets/images/portfolio/6.jpg"><i class="fa fa-search-plus"></i></a>-->
+<!--                        </div>&lt;!&ndash;End portfolio-link &ndash;&gt;-->
+<!--                      </div>&lt;!&ndash;End portfolio-overlay-content &ndash;&gt;-->
+<!--                    </div>&lt;!&ndash;End portfolio-overlay-inner &ndash;&gt;-->
+<!--                  </div>&lt;!&ndash;End portfolio-overlay &ndash;&gt;-->
+<!--                </div>&lt;!&ndash;End portfolio-wrapper &ndash;&gt;-->
+<!--              </div>&lt;!&ndash;End ./col- &ndash;&gt;-->
+<!--              <div class="col-xs-4 no-space">-->
+<!--                <div class="portfolio-wrapper">-->
+<!--                  <img src="../assets/images/portfolio/thumb/4.jpg" alt="Portfolio Title">-->
+<!--                  <div class="portfolio-overlay">-->
+<!--                    <div class="portfolio-overlay-inner">-->
+<!--                      <div class="portfolio-overlay-content">-->
+<!--                        <div class="portfolio-link">-->
+<!--                          <a title="Details" href="single-portfolio.html"><i class="fa fa-link"></i></a>-->
+<!--                          <a data-lightbox="recentwork" data-title="Image Preview" href="../assets/images/portfolio/4.jpg"><i class="fa fa-search-plus"></i></a>-->
+<!--                        </div>&lt;!&ndash;End portfolio-link &ndash;&gt;-->
+<!--                      </div>&lt;!&ndash;End portfolio-overlay-content &ndash;&gt;-->
+<!--                    </div>&lt;!&ndash;End portfolio-overlay-inner &ndash;&gt;-->
+<!--                  </div>&lt;!&ndash;End portfolio-overlay &ndash;&gt;-->
+<!--                </div>&lt;!&ndash;End portfolio-wrapper &ndash;&gt;-->
+<!--              </div>&lt;!&ndash;End ./col- &ndash;&gt;-->
+<!--            </div>&lt;!&ndash;End latest-portfolio &ndash;&gt;-->
+<!--            <div class="clearfix"></div>-->
+<!--          </div>&lt;!&ndash; end recent-work-wrap &ndash;&gt;-->
+<!--        </div>&lt;!&ndash; end col &ndash;&gt;-->
+        <div class="col-sm-4">
+          <div class="columnbottom-margin contact-info-wrap">
+            <h4 class="widget-title">Contact <span>Details</span></h4>
+            <ul class="contact-info list-unstyled">
+              <li><i class="fa fa-home"></i> 70 Trent Rd, Luton LU3 1TA, UK</li>
+              <li><i class="fa fa-phone"></i> <a href="tel:000-0000-0000">000 0000 0000</a></li>
+              <li><i class="fa fa-envelope"></i> <a href="mailto:sales@yourwebsite.com">sales@yourwebsite.com</a></li>
+            </ul><!-- end contact-info  -->
+
+            <ul class="list-inline list-social clearfix">
+              <li>
+                <a href="#" class="social-icon social-icon-small social-icon-facebook">
+                  <i class="fa fa-facebook"></i>
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="social-icon social-icon-small social-icon-twitter">
+                  <i class="fa fa-twitter"></i>
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="social-icon social-icon-small social-icon-gplus">
+                  <i class="fa fa-google-plus"></i>
+                  <i class="fa fa-google-plus"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="social-icon social-icon-small social-icon-vimeo">
+                  <i class="fa fa-vimeo"></i>
+                  <i class="fa fa-vimeo"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="social-icon social-icon-small social-icon-pinterest">
+                  <i class="fa fa-pinterest"></i>
+                  <i class="fa fa-pinterest"></i>
+                </a>
+              </li>
+              <li>
+                <a href="#" class="social-icon social-icon-small social-icon-linkedin">
+                  <i class="fa fa-linkedin"></i>
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul><!-- end list-social -->
+          </div><!-- end contact-info-wrap -->
+        </div><!-- end col -->
+      </div><!-- end footer-top  -->
+    </div><!-- end row -->
+    <hr>
+    <div class="row">
+      <div class="col-sm-12">
+        <a href="#" class="footer-logo-link"><img class="footer-logo" src="../assets/images/logo.png" alt="Steve"></a>
+        <p class="text-center copyright">&copy; Prasheel Soni. All rights reserved.</p>
+      </div><!-- end col -->
+    </div><!-- end row -->
+  </div><!-- end container -->
+</footer>
+
