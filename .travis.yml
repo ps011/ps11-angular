@@ -1,19 +1,29 @@
 language: node_js
+
 node_js:
-  - "11"
-dist: trusty
-sudo: required
+  - "10.14.2"
+
+cache:
+  directories:
+    - ./node_modules
 branches:
   only:
     - master
+
 before_script:
-  - npm install -g @angular/cli
+  - npm install
+
 script:
-  - ng build --prod --base-href https://github.com/ps011/ps011.github.io
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  local_dir: dist/portfolio
-  on:
-    branch: master
+  - npm run build
+
+after_success: |
+  if [ -n "$GITHUB_TOKEN" ]; then
+    cd "$TRAVIS_BUILD_DIR"
+    cd dist
+    git init
+    git checkout -b master
+    git add .
+    git -c user.name='ps11_builder' -c user.email='ps11_builder' commit -m init
+    git push -f -q https://rahulbhooteshwar:$GITHUB_TOKEN@github.com/ps011/ps011.github.io.git master &2>/dev/null
+    cd "$TRAVIS_BUILD_DIR"
+  fi
