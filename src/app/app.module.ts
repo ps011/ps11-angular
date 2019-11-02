@@ -10,6 +10,8 @@ import { BlogCarouselComponent } from './blog-carousel/blog-carousel.component';
 import { InterestsComponent } from './interests/interests.component';
 import { OwlModule } from 'ngx-owl-carousel';
 import { BlogComponent } from './blog/blog.component';
+import { MarkdownModule } from 'ngx-markdown';
+import {HttpClient, HttpClientModule} from '@angular/common/http';
 
 
 @NgModule({
@@ -25,7 +27,10 @@ import { BlogComponent } from './blog/blog.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    OwlModule
+    OwlModule,
+    HttpClientModule,
+    MarkdownModule.forRoot({ loader: HttpClient }),
+
   ],
   providers: [],
   bootstrap: [AppComponent]

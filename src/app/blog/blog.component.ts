@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {NavigationEnd, Router} from '@angular/router';
+import {ActivatedRoute, Router} from '@angular/router';
 
 @Component({
   selector: 'app-blog',
@@ -8,15 +8,15 @@ import {NavigationEnd, Router} from '@angular/router';
 })
 export class BlogComponent implements OnInit {
 
-  constructor(private router: Router) { }
+  blogSrc: string;
+  constructor( private route: ActivatedRoute) {
+  }
 
   ngOnInit() {
-    this.router.events.subscribe((evt) => {
-      if (!(evt instanceof NavigationEnd)) {
-        return;
-      }
-      window.scrollTo(0, 0);
+    this.route.paramMap.subscribe(params => {
+      this.blogSrc = `/assets/blog-posts/${params.get('name')}.md`;
     });
+
   }
 
 }
