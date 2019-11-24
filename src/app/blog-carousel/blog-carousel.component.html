@@ -17,7 +17,7 @@
     <div class="row">
       <div class="col-sm-12">
 
-        <owl-carousel [options]="carouselOptions" [items]="images" [carouselClasses]="['owl-theme', 'row', 'sliding']">
+        <owl-carousel [options]="carouselOptions" [carouselClasses]="['owl-theme', 'row', 'sliding']">
                     <div class="item" *ngFor="let blog of blogPosts">
                       <article class="post-wrap">
                         <div class="post-thumb">
@@ -25,15 +25,15 @@
                         </div><!--End post-thumb -->
                         <div class="post-content">
                           <div class="post-title">
-                            <h3><a [routerLink]="['/blog', 'trip-to-solace']">{{blog.title}}</a></h3>
+                            <h3><a [routerLink]="['/blog', blog.link]">{{blog.title}}</a></h3>
                           </div><!--End post-title -->
                           <div class="post-excerpt">
-                            <p>{{blog.shortDescription}}...<a class="btn-more" [routerLink]="['/blog', 'trip-to-solace']">Read More <i class="fa fa-angle-double-right"></i></a></p>
+                            <p>{{blog.shortDescription}}...<a class="btn-more" [routerLink]="['/blog', blog.link]">Read More <i class="fa fa-angle-double-right"></i></a></p>
                           </div><!--End post-excerpt -->
                           <div class="post-meta">
                             <span><i class="fa fa-user"></i><a href={{blog.profileLink}}>{{blog.postedBy}}</a></span><br>
                             <span><i class="fa fa-calendar"></i>{{blog.date | date}}</span>
-<!--                            <span><i class="fa fa-comments"></i><a href="#">8</a></span>-->
+<!--                                <span><i class="fa fa-comments"></i><a href="#">8</a></span>-->
                           </div><!--End post-meta -->
                         </div><!--End post-content -->
                       </article><!--End post-wrap -->
