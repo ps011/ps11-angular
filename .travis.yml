@@ -18,7 +18,6 @@ script:
   - npm run build
 
 after_success: |
-  if [ -n "$GITHUB_TOKEN" ]; then
   if : branch = master
     cd "$TRAVIS_BUILD_DIR"
     cd dist
@@ -29,7 +28,6 @@ after_success: |
     git -c user.name='ps11_builder' -c user.email='ps11_builder' commit -m init
     git push -f -q https://ps011:$GITHUB_TOKEN@github.com/ps011/ps011.github.io.git master &2>/dev/null
     cd "$TRAVIS_BUILD_DIR"
-  fi
   if : branch = develop
   cd "$TRAVIS_BUILD_DIR"
      cd dist
