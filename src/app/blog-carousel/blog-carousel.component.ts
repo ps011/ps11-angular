@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import blogPosts from '../../assets/json/blog-posts.json';
 @Component({
   selector: 'app-blog-carousel',
   templateUrl: './blog-carousel.component.html',
@@ -70,10 +70,12 @@ export class BlogCarouselComponent implements OnInit {
       image: 'https://freakyjolly.com/demo/jquery/PreloadJS/images/10.jpg'
     }
   ];
+  blogPosts = blogPosts;
 
   constructor() { }
 
   ngOnInit() {
+    console.log(blogPosts);
   }
 
 }
