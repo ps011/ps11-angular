@@ -9,8 +9,6 @@ import { AboutComponent } from './about/about.component';
 import { BlogCarouselComponent } from './blog-carousel/blog-carousel.component';
 import { InterestsComponent } from './interests/interests.component';
 import { OwlModule } from 'ngx-owl-carousel';
-import { NgCircleProgressModule } from 'ng-circle-progress';
-
 
 @NgModule({
   declarations: [
@@ -24,10 +22,7 @@ import { NgCircleProgressModule } from 'ng-circle-progress';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    OwlModule,
-    NgCircleProgressModule.forRoot({
-      responsive: true
-    })
+    OwlModule
   ],
   providers: [],
   bootstrap: [AppComponent]
