@@ -18,7 +18,7 @@ script:
   - npm run build
 
 after_success: |
-  if [ TRAVIS_BRANCH = "master" ]; then
+  if [ -n "$GITHUB_TOKEN" ]; then
     cd "$TRAVIS_BUILD_DIR"
     cd dist
     cd portfolio
@@ -28,15 +28,4 @@ after_success: |
     git -c user.name='ps11_builder' -c user.email='ps11_builder' commit -m init
     git push -f -q https://ps011:$GITHUB_TOKEN@github.com/ps011/ps011.github.io.git master &2>/dev/null
     cd "$TRAVIS_BUILD_DIR"
-  fi
-  if [ TRAVIS_BRANCH = "develop" ]; then
-     cd "$TRAVIS_BUILD_DIR"
-     cd dist
-     cd portfolio
-     git init
-     git checkout -b master
-     git add .
-     git -c user.name='ps11_builder' -c user.email='ps11_builder' commit -m init
-     git push -f -q https://ps011:$GITHUB_TOKEN@github.com/ps011/ps11 gh-pages &2>/dev/null
-     cd "$TRAVIS_BUILD_DIR"
   fi
