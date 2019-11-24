@@ -59,6 +59,10 @@
 	.menu-bg .main-menu .navbar-nav li a {
 		color: #000;
 	}
+  .main-menu .navbar-nav li a {
+    /*color: #000;*/
+    background-color: rgba(4, 185, 98, 0.8); ;
+  }
 	.navbar-collapse ul.nav.navbar-nav li:hover a, .navbar-collapse ul.nav.navbar-nav li a:hover {
 		color: #fff;
 	}
