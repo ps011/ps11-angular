@@ -1,14 +1,15 @@
 <!-- start banner -->
 <section id="single-page-banner" class="page-title page-title-image blog-hbg">
   <div class="container">
-    <div class="row">
+    <div class="row blog-breadcrumb">
       <div class="col-sm-6">
-        <h2>Article Details</h2>
+        <h2>Prasheel's Blog</h2>
       </div><!-- end col -->
       <div class="col-sm-6">
         <ul class="breadcrumb">
-          <li><a href="index.html">Home</a></li>
-          <li class="active">Post Title</li>
+          <li><a href="
+          /#blog">Blog</a></li>
+          <li class="active">{{blog.title}}</li>
         </ul>
       </div><!-- end col -->
     </div><!-- end row -->
@@ -16,27 +17,27 @@
 </section>
 <!-- end slider -->
 
-<div id="content" class="content SectionMargin">
+<div id="content" class="content">
   <div class="container">
     <div class="row">
       <!-- start single-blog -->
       <div id="single-post-content" class="col-sm-12">
         <article class="post">
           <div class="post-image">
-            <img src="../../assets/images/blog/2.jpg" alt="Post Image">
+            <img src={{blog.banner}} alt="Post Image">
           </div><!-- end post-image -->
           <div class="post-title">
-            <h1>A small river named Duden place</h1>
+            <h1>{{blog.title}}</h1>
           </div><!-- end post-title -->
           <div class="post-meta">
-            <span><i class="fa fa-user"></i><a href="#">Zinia Jones</a></span>
-            <span><i class="fa fa-calendar"></i><a href="#">Oct 12, 2017</a></span>
-            <span><i class="fa fa-folder-open"></i><a href="#">General</a>,<a href="#">Media</a></span>
-            <span><i class="fa fa-comments"></i><a href="#comment">8</a></span>
+            <span><i class="fa fa-user"></i><a href={{blog.profileLink}}>{{blog.author}}</a></span>
+            <span><i class="fa fa-calendar"></i><a href="#">{{blog.date | date}}</a></span>
+<!--            <span><i class="fa fa-folder-open"></i><a href="#">General</a>,<a href="#">Media</a></span>-->
+<!--            <span><i class="fa fa-comments"></i><a href="#comment">8</a></span>-->
           </div><!-- end post-meta -->
 
           <div class="post-body">
-           <markdown [src]="blogSrc"></markdown>
+           <markdown [src]="blog.content"></markdown>
           </div><!-- end post-body -->
 
           <!-- start share-icon -->

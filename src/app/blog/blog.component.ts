@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {ActivatedRoute} from '@angular/router';
+import blogData from '../../assets/json/blog-posts.json';
 
 @Component({
   selector: 'app-blog',
@@ -8,13 +9,18 @@ import {ActivatedRoute} from '@angular/router';
 })
 export class BlogComponent implements OnInit {
 
+  blog: any;
   blogSrc: string;
   constructor( private route: ActivatedRoute) {
   }
 
   ngOnInit() {
     this.route.paramMap.subscribe(params => {
-      this.blogSrc = `/assets/blog-posts/${params.get('name')}.md`;
+      blogData.forEach(blog => {
+        if (params.get('name') === blog.link) {
+          this.blog = blog;
+        }
+      });
     });
 
   }
