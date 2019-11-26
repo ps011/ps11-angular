@@ -608,8 +608,7 @@ a img.logo-color  {
 |----------------------------------------------------------------------------
 */
 #single-page-banner {
-    margin-top: 80px;
-    /*padding: 10vh 0;*/
+    line-height: 3rem;
     padding: 30px 0;
     position: relative;
     width: 100%;
@@ -1750,6 +1749,9 @@ ul.filter > li.active a, ul.filter > li > a:hover,ul.filter > li > a:focus {
 #blog {
 	padding: 70px 0;
 }
+.blog-breadcrumb {
+  margin-top: 80px;
+}
 .post-meta  {
 	font-size: 15px;
 	font-style: italic;
@@ -2805,12 +2807,11 @@ select.form-control::-ms-expand {
     box-shadow: none;
 }
 #related-blog .blog-thumb img, .post .post-image img, .post-thumbnail img  {
-	width: 100%;
+  width: 100%
 }
 #single-post-content .post .post-image {
     overflow: hidden;
 	position: relative;
-	margin: 60px 0 30px;
 }
 #related-blog .blog-title h3 {
     font-size: 18px;
