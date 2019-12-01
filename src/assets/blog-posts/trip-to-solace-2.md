@@ -91,7 +91,8 @@ We filled in air and started riding towards the next village
 In between, we reached the Kargil War Memorial
 Spent some time over there and got to know the history of Kargil War
 We borrowed an air pump from some guys and started riding towards Kargil
-Before Kargil, we encountered a restuarant, we stopped by and luckily, we got a mechanic too and more to it, we got a cheap hotel as well. This was not a village or city or something but just the 3 buildings.
+Before Kargil, we encountered a restuarant, we stopped by and luckily, we got a mechanic too and more to it, we got a cheap hotel as well. 
+This was not a village or city or something but just the 3 buildings.
 
 ---------------------------------------------------------
 
@@ -251,7 +252,103 @@ cameras were not that good. We slept at around 2:00.
 
 ### Day 8
 
-Pangong - Durbuk - ChangLa Pass - Shakti - Karu - Leh
+Pangong - Durbuk - Changla Pass
+
+Departure - 11:00
+Arrival - 14:00
+
+As we slept late last night, it was obvious that we woke we late next day.
+We woke up at around 8.30-9:00 because it was damn too cold.
+We slept with 3-4 layers on ourselves then too we felt cold.
+We got ready and left for the Pangong lake sight seeing.
+It was a 2-3 KM ride from the tents and was by the lake side.
+We captured a lot of pictures and the lake was very beautiful.
+The water was turquoise. I saw this kind of a water body for the first time in my life.
+We spent almost an hour there.
+We also tried some archery and captured some pictures on a Yak as well.
+After that we left the tents and there we loaded all our bags on the bike and started our journey for the rest of 
+the day. This time, with 3 more companions.
+
+When started, we suspected that the journey today is going to be tough as we'll encounter Changla Pass and that thing proved right.
+Everyone was wearing 3-4 layers of clothes.
+We crossed Durbuk without any difficulty and then the test of our and our bikes started.
+An interesting incident also happened while riding from Durbuk to Changla. 
+We had borrowed an air pump from a Guy at Kargil War memorial and we promised him to return that in Leh
+But we were not able to find him there so we decided to keep the pump with us.
+We coincidentally met that Guy on Pangong Lake, but then too we were not able to return that pump bcz our bags and all the luggage was kept in our tents
+We promised him to return the Pump as soon as we reach our tent. But we forgot there as well.
+
+But while we were riding from Durbuk to Changla, we saw a car with very low tyre pressure ahead us.
+I was sitting behind Nakul and I told him to see the tyres of the car ahead us.
+After a while, the car stopped and some guys came out of it to see the tyres and Wooaahhhhh....He was the same
+guy who lent us the air pump. What a location and time it was to return his pump.
+He thanked us, we thanked him and we handed over the pump to him and continued our journey to Changla
+
+After a while the ascend of Changla Pass started and it was very steep. We had a Royal Enfield 350 Classic
+with two guys riding on it with two rucksacks. It was very difficult for us and the bike to climb that.
+At times, I had to get down from the bike so that Nakul can manage to climb a specific patch.
+And trust me, it's hard to walk even a hundred meters in mountains. There were a couple of instances where the bike slipped 
+and went out of control, but Nakul managed it pretty well👏🏻.
+
+Finally, we reached Changla Pass at around 14:00. We stayed there for some 15-20 mins, clicked some pictures 
+and then left for Karu via Shakti.
+
+
+Changla Pass - Shakti - Karu
+
+Departure - 14:15
+Arrival - 17:30
+
+I and Nakul were riding on one bike and Avdhesh and Yash were on the other one. Unfortunately, we had the one 
+which was constantly failing to deliver😪. The tyre bursted when we were around 3-4 km away from a village named Shakti.
+Our fellow riders were already riding ahead of us and were unknown about our situation. We were also unaware of 
+what was going to happen to us in the coming couple of hours. The tyre bursted because we tried to be smart. 
+We were descending from Changla Pass and the roads were having a lot of loops and hair pin bends so we decided 
+the take a short cut and avoid all those. So, for that, we took an unpaved road which resulted in a puncture.
+
+Now, I and Nakul were stranded on an empty road. We started dragging the bike towards the nearest village that was Shakti.
+I told Nakul to slowly drag the bike till then I went ahead to search for some help or lift.
+
+Luckily, I got a lift in a car who previously denied to give us a lift. He took me till Shakti village and dropped me.
+Nakul also came after 5-10 mins. We stood there, had some water and then tried contacting Avdhesh and Yash.
+Fortunately, we got network coverage and we called one the 3 Punjabi guys who joined us from Pangong.
+They told us that they have reached Karu and will wait for us there only. We then waited for someone who can help us 
+out of this situation. 
+
+Finally, after some time, a guy and a girl with a pickup truck arrived. We asked him to help us and surprisingly, he was
+carrying an electrical air pump with him in his van. We pumped air into the tyre and I boarded the pickup van while 
+Nakul started to ride the bike till Karu. Karu was near about 4-5 km from there. I with both the bags, was in the 
+pickup van. We stopped once again in between to repump the air into our bike.
+And after that, finally we reached Karu at 17:30.
+
+We had lunch over there and we enquired about the Leh-Manali highway there. As the situation was still suspicious about it's opening.
+Meanwhile Avdhesh and Yash took the responsibility to get the bike repaired. 
+It took a lot of effort for them as well because Karu was a small village and not everyone was skilled to 
+dismantle a Royal Enfield's tyre.
+
+As the situation on Leh-Manali highway was getting worse due to the continuous snowfall. We decided not to take and 
+retrace the path which we followed to reach Leh from Pathankot via Srinagar.
+
+We decided to stay in Leh that night.
+
+
+Karu - Leh
+
+Departure - 18:30
+Arrival - 19:30
+
+We left at around 18:30 from Karu. It was a 35-45 min ride from Karu to Leh. We saw another monastry in between.
+The guys with us told that the song "Sanam Re" was shot in that monastry.
+Finally, we reached Leh...Again!!. 
+We searched for some hotels and we found a couple of them in the mid of the City. 
+Since we had a lot of time, we decided to explore Leh, a bit more.
+I and Yash left early in search of some souvenirs. Meanwhile Avdhesh and Nakul went for some shopping.
+We met after an hour at a cafe. They had bought some nice Shawls, so I also went with Nakul to get a couple of them.
+After that, we went to Mall Road to buy some souvenirs. We had our dinner at a restaurant nearby and returned to the Hotel.
+After sometime, I got a text from Namrata saying that she's also in Leh and staying at a Backpackers Hostel.
+This was the second time when we travelled to the same place.
+I went on to meet her. I returned at around 23.30-00.00.
+We planned for the next day to see the Leh Palace first and then leave towards Srinagar.
 
 ---------------------------------------------------------
 
@@ -259,22 +356,118 @@ Pangong - Durbuk - ChangLa Pass - Shakti - Karu - Leh
 
 Leh - Kargil - Zozila - Sonamarg
 
+Departure - 10:00
+Arrival - 23:30
+
+We got up a bit late in the morning. 
+Got ready quickly, loaded our bikes and left for the Leh Palace.
+Leh Palace is an old building turned into an exhibition hall.
+We reached there, explored that, clicked some photographs and spent around an hour there.
+When we came back to our bikes.....an uninvited problem was waiting for us.
+Someone parked their car just behind our bikes. We were literally not able to move our bikes.
+We were blocked but also we were short of time. 
+Then we took a brave step😂.
+
+We held the car from the front side and lifted it and then we moved it aside, so that our bikes can be unblocked.
+
+We then left Leh Palace and started our ride towards Srinagar.
+There was a Hall of Fame in Leh. Which was an exhibition of Indian Army's operations in Ladakh region.
+Initially, only I was in favour of going there and I insisted on it, so eventually everybody had to agree
+and we went to the Hall of Fame. It took us an hour or so to roam in and around the Hall Of Fame.
+So technically, we were up at 10 but it was 11:30 and we were still in Leh.
+
+After a short and sweet visit to the Hall of Fame, we moved ahead and guess what, next stop was 20KM away.
+Shri Patthar Sahib Gurudwara . We reached there at 12:00. We spent around an hour there. Had our lunch there only in the Langar.
+Heard about the story of Patthar Sahib Gurudwara and left for the next stop. 
+From there, we stopped by the Magnetic Hill and tried to understand the logic of it. But it seem quite evident that there was nothing like Magnetic field in that Hill.
+I was excited to see this but was disappointed. It was just a slant road going down on which vehicles automatically move.
+
+We stayed there for around 10 mins and then started our journey towards Kargil. When we left for Lamayuru, Nakul and Avdhesh took some lead and went ahead.
+I and Yash were behind. Suddenly, the accelerator of our bike stopped working. I tried very hard by pulling the throttle 
+but no luck. As it was a steep descend, we rode for around 3-4 km without and juice but then the road was flat.
+I tried to alert the Guys ahead of us by ringing the emergency horn, but they were way too far and were't able to hear us.
+I told Yash about the situation, and he said that let it roll till the end of descend, then well see what we can do.
+The bike came to a stop, and the accelerator was still not working. We thought that the accelerator wire was broken.
+The all of a sudden, Yash noticed that the engine is switched off 🤦🏻‍♂️. We started the engine, and the accelerator was working again 😂.
+We moved and crossed Lamayuru. Roads were very curvy and there were a lot of hair pin bends there which tested our riding skills and patience.
+That dat, I and Yash were riding together and Nakul and Avdhesh were on the other bike. This happened because Nakul and Yash 
+did not want to ride on the same bike😂. We were riding ahead of the other bike. 
+
+
+
+Then we reached Namik La Pass.
+Which is the highest point on the Srinagar-Leh Highway. I and Yash stopped there and waited for Nakul and Avdhesh.
+When they arrived, Avdhesh was laughing. When we asked him the reason, he told us about an incident happened to them a while ago. 
+
+Nakul was riding the bike on the curves. Then came a sharp hairpin bend, the bike was at around 40-50 kmph.
+Nakul turned the bike but wasn't able to turn it completely and the bike went off the track. Avdhesh immediately
+told him to apply the front breaks to make to bike stop. On which, Nakul replied, "Can we use front breaks as well in this ????".
+Then we came to know that Nakul did the whole trip without knowing that front breaks can be used. We all burst into laughter 
+after hearing this.
+
+After this small chit chat, we clicked some pictures there and left as it the wind speed was way too high there and we were short of time.
+We had to cross the Zozila Pass as well. Which was 150km away from where we were standing.
+
+We reached the Army Cafe, where our bike broke when we were riding to Leh from Kargil. We stopped by and had some snacks.
+It was already 16:00 on the clock and we had to hurry if we wanted to cross the mighty Zozila Pass.
+
+We quickly wrapped up the snacks and left for Kargil. I was riding the bike and the other one was ridden by Nakul.
+I speeded up a bit to cover the time. We reached Kargil at around 17:30 and continued to ride. Reaching Dras took us another 
+one and a half hour. It was 19:00 on the clock now and we still had to cross the Zozila Pass and reach Srinagar (according to our plan).
+From Dras, it took us another hour to reach the checkpoint, from where Zozila Pass starts.
+It was Dark and Cold. I and Yash then decided to stop on the checkpoint and wait for Nakul and Avdhesh as they
+were behind us. In the meantime, we logged the entry of our bikes in the Army register and had some Tea.
+
+Nakul and Avdhesh arrived after some 15-20 mins. We sat down at the tea stall to analyze the situation and
+after a healthy discussion, we concluded that we'll cross the pass right now and will stick to the plan of reaching Srinagar on that day itself.
+
+Avdhesh told me to stay behind them and not to ride too fast so that we can communicate in case of any emergency.
+We started climbing the Mighty Zozila Pass. The roads were too bad, it was very cold and there were potholes and molten know
+all around, making the ride even more difficult. 
+
+While crossing the pass, rear breaks malfunctioned, I tried to stop the bike using rear breaks but I failed.
+I then controlled the bike using the gears and the front breaks only. We still had to cover 6KM. I rode the bike
+between 20-25kmph for the remaining 6 KM. 
+
+The coordination between us was outstanding that night. Not a single instance was there when we felt that we're losing sight of each other.
+
+Finally, we crossed the Zozila Pass and after riding for another hour, we reached Sonamarg.
+
+We were hungry AF. So we stopped by a North Indian restaurant for dinner. It was 23:00 on the clock.
+We decided to stay in Sonamarg, as it wal almost midnight, we were tired and the breaks were also not properly working.
+We unloaded the bikes and stayed in a hotel nearby.  
+
+ 
+
+
 ---------------------------------------------------------
 
 ### Day 10
 
 Sonamarg - Srinagar - Udhampur -  Pathankot  
 
+
+Departure - 9:30
+
+
 ---------------------------------------------------------
 
 ### Day 11
 
-Pathankot - Amritsar - Attari Border
+Pathankot - Amritsar - Attari Border - Amritsar
+
+Arrival at Pathankot - 2:00
+Departure -  11:00
+Arrival - 13:00
 
 ---------------------------------------------------------
 
 ### Day 12
 
-Amritsar - Delhi
+Amritsar - Delhi - Pune
+
+Departure - 10:00
+Arrival in Delhi - 20:00
+Arrival in Pune - 1:30`
 
 ---------------------------------------------------------
