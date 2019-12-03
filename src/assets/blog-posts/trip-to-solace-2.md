@@ -449,6 +449,130 @@ Sonamarg - Srinagar - Udhampur -  Pathankot
 
 Departure - 9:30
 
+And the 10th day of the Trip to Solace begun with the chirping of birds and shining snow. Sonamarg it was. 
+We woke up early that day, at around 8:00 and got ready by 9:00. We loaded our bikes and left without having breakfast, 
+after deciding to have it in some restaurant on our way.
+
+While leaving, we didn't knew that this is going to be the longest, toughest and most adventurous day of our trip.
+
+
+We decided to hit Amritsar by midnight as it was 527KM from Sonamarg and we left the place at 9:45.
+We stopped after 20-30 KM to have breakfast on a Dhaba on the way to Srinagar.
+
+We reached Srinagar by 14:00. Although it was only 80KM from Sonamarg, but the roads weren't that great.
+Also, the bikes were now vulnerable to any kind of damage. The views were breathtaking and we were awestruck by them.
+This was another factor that slowed us down.
+
+When we reached Srinagar, we decided that we'll not waste much time here and leave ASAP. But we ended up spending 2.5 hours there.
+First we went to the Mughal garden (suggested by someone on the way). It was HOT🔥. Temperature was touching 40C.
+We roamed around in the garden and witnessed some pretty good flora there. Clicked a lot of pictures and embraced the beauty.
+One funny thing that we noticed in that garden was, people were bathing in the fountains that were installed in the park to enhance the beauty of it.
+We left the garden after 40 mins and headed straight to the market, as Nakul wanted to get some dry fruits.
+We enquired about that and found out that Lal Chowk is the place. 
+We had heard about that place earlier and also, we knew that it is going to be dangerous, still we went for that.
+I and Yash were on a bike while Nakul and Avdhesh were riding the other one. On one turn, we misjudged Google Maps
+and went straight instead of taking a left turn.....and then we were lost. We asked the local people about the directions
+and the told us that we left Lal Chowk behind.
+
+We retraced the route and reached Lal Chowk. Now the challenge was to find Nakul and Avdhesh as there was only 1 cell phone working between the 4 of us 
+and that was with Nakul.
+
+I and Yash stood on a side and we were discussing about where to go so that we can find the other two guys.
+Suddenly, an old man came to us and said, are you with those two guys who just passed from here?
+We said yes (but how did he guessed). By seeing the question mark on our faces, he told us that the same orange bags were mounted on that bike as well.
+ That's why he was able to identify us. We thanked him and went ahead in search and NJ and AV.
+ 
+ We found them on the other side of the road where Avdhesh was sitting on the bike and Nakul was on a shop.
+ I parked my bike beside his and Yash went to the shop with Nakul. I and Avdhesh stood there and discussed about the rest of the plan.
+ We knew that we were way too late and were running behind our target.
+ He said that we might not reach Amritsar today if we go like this. Then both of us said together that, whatever happens, we'll reach
+ Amritsar today, either by hook or by crook. He told me that we need to ride faster and should take less breaks.
+ 
+ Finally the shopping ended and the space crisis began. They had bought dry fruits in kilos. There was no way we can
+ accommodate those on our bags. 
+ 
+ Somehow, Yash managed to keep his stuff inside his bag and Nakul decided to keep his stuff in his hands on the back seat of the bike.
+ 
+ 
+ We started riding towards Udhampur now. Just when we were about to cross Srinagar City, a hilarious incident took place.
+ 
+ On a busy road of Srinagar, the bag of walnuts in Nakul's hand, suddenly bursted and there were walnuts all around...😂😂😂😂😂
+ 
+ On the road, footpath, beneath the cars😂😂. We stopped our bike immediately on a side and started picking up those. 
+ We collected the walnuts in whatever we got, be it a cap, helmet, handkerchief, hoodie and what not.
+ 
+ After an effort of 10 minutes, we were able to recover almost 75-80% of walnuts.😂😂 
+ 
+ Then we quickly got on our bikes and started riding. It was 16.30 on the clock and we still had 434 KM to cover on that day, which ideally take
+ 10 hours in a Car. We rushed quickly towards the highway.
+ 
+ We crossed, Avantipora, Pulwama, Tral, Pampore etc. We had heard these names in news only and now we were witnessing them on milestones.
+ 
+ After riding for another 40KM, we stopped for a quick lunch. Had our lunch in 20 mins and left from there.
+ 
+ We rode continuously for 120KM after that, crossed Jawahar tunnel in between then stopped for a Tea and Water break on a tea stall near a mountain.
+ We spent around 15-20 mins there. Our thighs and legs were going numb at this point of time. 
+ 
+ We started again after the rejuvenating tea break. It was 18:30 already and the sky was getting dark. 
+ 
+ The next sprint lasted for another 80-90KM and we reached Udhampur. We were hungry and tired. 
+ We turned the bikes inside Udhampur city in search of a restaurant. It was 20:30 on the clock. It was almost 12 hours since we left Sonamarg.
+ Phone's batteries were almost dead, hands and legs were numb, faces were full of dirt, bikes were hot AF but still there was a Force inside all of us
+ which pushed us to go above and beyond our comfort zone. We had our dinner in Udhampur and decided what to do next. Surprisingly, everyone wanted to
+ go ahead and reach Amritsar that day only. We searched on Google Maps and asked the hotel staff about the shortest route to Pathankot. They told us 
+ that there are a couple of options. We can either go to Pathankot via Jammu (the route which we took while going to Leh) or, we can take a shorter route
+ which is not a highway and there's not much traffic there and is less preferred but he said that is is totally safe to take the shorter one.
+ 
+ So we decided to take the shorter route, which will connect us directly to Pathankot and from there we can reach Amritsar which is onlt 115KM from there.
+ Udhampur to Pathankot is a 127KM long route in which 60KM is not a highway but a damaged two lane road.
+ 
+ We started at around 22:00 from Udhampur. Refueled our bikes at a fuel station there only and began our trail towards Amritsar.
+ 
+ We rode for only 4-5 KM and Yash said that he's feeling very sleepy. At first, I told him to hold me tightly and keep his head on my shoulder
+ so that he does not fall off the bike. It went well for a few kilometers but as and when Yash went into deep sleep (He can sleep anywhere)
+ he started to disbalance the bike. I rang the emergency horn and but didn't stopped the bike. I yelled at Yash to wake up until we
+ reach some safe place. Avdhesh and Nakul were very attentive and immediately responded to the emergency horn and slowed down their bike.
+ I moved a bit fast to catch up with them and told them about the situation. Avdhesh also yelled at Yash for his irresponsible behaviour.
+ Yash promised that he won't sleep now and we continued our ride without stopping. After a while, I began to feel sleepy but I didn't told
+ this to anyone, not even Yash; as he was also controlling his sleep with difficulty. After a moment I felt  Yash's helmet clashed with mine,
+ I shouted his name and he was like..."Haa bhai....jaag raha hu...nahi soya...". As I was also feeling sleepy, I thought to take a break
+ and wash my face. I rang the emergency horn again, NJ and AV responded, I told them that Yash is feeling sleepy again, we must stop somewhere
+ and have some Tea. After 4-5 KM we noticed a small Dhaba and a  welding shop. We stopped there to have Tea. I washed my face and Yash took a nap
+ Avdhesh and Nakul took Tea. Yash promised that he won't sleep now.
+ 
+ And we started again...
+ 
+ Yash told me to keep talking to him so that he doesn't get bored and ultimately won't sleep. So I decided to tell him about
+ some incidents happened to me in the past couple of years (Nothing can be more interesting than those and we still laugh when we remember that conversation).
+ After riding for another hour, we hit the highway. It was 1:00 AM. 
+ 
+ That highway kind of boosted our morale. There was a spark inside all of us. We stopped for a couple of minutes and then began our last sprint.
+ 
+ Pathankot was 70KM and Amritsar was 175KM. It was 1:00 AM and we thought that we will reach Amritsar by 4:00 AM.
+ 
+ Our bikes were cruising at 90-100kmph. we rode for 60 odd kilometers and then a dangerous incident happened.....
+ 
+ Our bike's rear tyre bursted. The bike was on 90kmph. I was riding it. As soon as the tyre bursted, the bike went out of my control....
+ 
+ 
+ Yash panicked, I panicked but then I quickly gathered myself and lowered the gears to slow down the bike, as pressing the front breaks was not an option
+ and pressing the rear breaks would have crashed us immediately. Lowering the gears slowed down the bike to 50kmph, then I gently 
+ applied rear and front breaks together (40:60 ratio. Thanks to Avdhesh for that 60-40 lesson). The bike came to a stop after 70-80 meters.
+  Fortunately, there was no injury to either Me or Yash and the bike was also safe. We parked the bike on one side and waited for AV and NJ to arrive.
+  It was 2:00AM. Our eyes were full of sleep. We could hardly see any population around us. There  were just two Dhabas and a fuel station and a mosque near us.
+  
+  
+  Nakul and Avdhesh came and then we 4 sat down to see what happened to the tyre. It was a large nail in the rear one. It was now impossible to move the bike from there.
+  So I and Nakul went for a night stay hunt towards the hotels nearby and we failed in it. When we came back, we decided to park the bike there only and go to the Dhaba on 
+  the other side of the road and have some rest there. We decided that we'll get the puncture repaired in the morning and then leave for Amritsar.
+  
+  Pathankot was still 10KM away and we slept on tables, chair, bike and whatever we got there.
+  
+  We'll never forget that night. 
+  We started at 9:30 in the morning from Sonamarg and stopped at 2:00AM at a place 10KM away from Pathankot.
+  Riding for 17 hours that day taught us about our endurance, patience, coordination, fearless decision making,
+  trust in each other and what not.
+
 
 ---------------------------------------------------------
 
@@ -468,6 +592,6 @@ Amritsar - Delhi - Pune
 
 Departure - 10:00
 Arrival in Delhi - 20:00
-Arrival in Pune - 1:30`
+Arrival in Pune - 1:30
 
 ---------------------------------------------------------
