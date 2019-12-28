@@ -1,10 +1,29 @@
 ### Day 0
 
-Pune - Delhi by Flight
+Pune - Delhi
 Departure - 18.00
 Arrival - 20.00
 
-Met Nakul and Yash at Delhi Railway station, picked up bikes.
+And the most awaited trip was about to begin. It is going to have everything, Mountains, Bike, Snow, Adventure and last but not the least My best friends.
+
+The journey begun from Pune (for Me and Avdhesh). We met at the airport and boarded the flight. We reached Delhi at around 20:00. From there, we took a Metro to Delhi Railway station.
+Nakul and Yash had reached Delhi in the Morning. So they tested(hopefully) and took the bikes from Karol Bagh and were supposed to meet us at the Railway Station.
+We reached the station and called Nakul. He said that he's standing beside the KFC outlet. We immediately went there.
+
+Andd.....what did we saw....A solid built guy in a red hoodie with helmet in a hand was waving towards us, it was Nakul, on a blue Royal Enfield waiting for us there. The scene from ZNMD flashed into my mind when Hritik and Abhay meet Farhan at the airport.
+After a while, we heard another Royal Enfield coming towards us. We turned and saw another Mint colored bike coming towards us ridden by a handsome, lean guy quipped with all the riding gears.
+He was Yash... Yash Makwe. 
+
+We spent almost half an hour there in mounting our bags on the bikes and meeting and greeting and talking about the journey and the plans we all had in our minds.
+After this intense discussion of half an hour, we decided to leave from Delhi that night and reach somewhere close to Chandigarh. So that we can have a head start
+the next day. We all agreed to this point but our stomachs did not. We were hungry. Yash told us that we'll have dinner in Murthal, which is famous for Parathas and is 50KM away from Delhi.
+Everyone agreed with Yash and the ride begun 🎉🔥. Before beginning the ride, there was an argument between Me and Yash about who is going to ride the bike? Yash was adamant and was not in a mood
+to listen to anyone. So we allowed him to ride. And the ride finally begun 🎉🔥.
+
+4 School Friends, 2 Royal Enfields, 12 Days, 6 States, 3500 KM and Memories for lifetime. 
+
+As soon as we started , we knew that this is going to be One heck of a Trip, A TRIP TO SOLACE 2. 
+
 
 Delhi - Karnal
 Departure - 22.00
@@ -569,7 +588,7 @@ We said yes (but how did he guessed). By seeing the question mark on our faces, 
   Pathankot was still 10KM away and we slept on tables, chair, bike and whatever we got there.
   
   We'll never forget that night. 
-  We started at 9:30 in the morning from Sonamarg and stopped at 2:00AM at a place 10KM away from Pathankot.
+  We started at 9:30 in the morning from Sonamarg and stopped at 2:00AM stranded on a highway 10KM away from Pathankot.
   Riding for 17 hours that day taught us about our endurance, patience, coordination, fearless decision making,
   trust in each other and what not.
 
@@ -584,6 +603,51 @@ Arrival at Pathankot - 2:00
 Departure -  11:00
 Arrival - 13:00
 
+I got up at 5:00 AM because of mosquito bites and found out that Avdhesh was already up because of the same problem. We looked at each other
+and decided to take the other bike and start hunting for a bike repair shop nearby. We went inside the village nearby, but it was too early
+and all the shops were closed. So, No Luck, we returned to the place where we left Nakul and Yash sleeping and joined them. After sleeping for another couple of hours,
+Nakul woke up. Then I and Nakul went to search for repair shops. Fortunately or Unfortunately, we found one, but he denied to repair a Royal Enfield. So we moved ahead.
+Then while searching for shops, suddenly a scooter stopped near us. An aged man in his loud voice, asked us, "What happened guys?? I saw you roaming around, searching for something.". Nakul 
+explained him the whole situation. 
+
+He told us that he knows a shop which could be open and then he asked us to follow him. We reached the shop and it was closed. He called up the owner and requested him to help us.
+The garage owner took 15 mins to reach the shop, where we were standing. He took his tools and sat behind me. When I reached the point where we parked the other bike, Avdhesh and Yash were sitting 
+there, waiting for us. I told them the whole story while the guy tried the open the punctured tyre of our bike. After struggling a lot, the tyre came out and the guy concluded that we need to change
+the tube. 
+
+Then the hunt for a new tyre tube begun. I and Nakul went to the shop suggested by the garage owner. We purchased a new tube. Then Nakul said, "It's 10:00 in the morning and we haven't had breakfast yet.
+Let's have some Lassi, WDYT ??". and I agreed instantly. We asked the folks about some famous shop and went there. We had a Big Glass of Lassi there and then returned to the bike. 
+
+The guy replaced the tyre tube and the bike was ready to roll now.🎉
+
+We mounted the luggage on to the bikes and started our journey towards Amritsar. It was 11:00 and the heat started to rise towards it's peak.
+
+It took us 2 hours to reach Amritsar. Heat was at it's peak. It was 42 degrees there and I started to dehydrate. Avdhesh and Yash were aahead of us and they had already reached the hotel.
+I and Nakul were lost in the narrow roads of Amritsar with a lottttt of traffic. I started to lose my patience then. At one point, I literally got off from the bike and shouted loudly.
+I CANNOT TAKE THIS ANYMORE. Nakul gracefully handled me and the situation, asked me to sit behind him and relax. It took us another 5-7 mins to reach the hotel. I crashed on the bed immediately.
+We slept for like 2-3 hours. Others took a bath and got ready but I was still sleeping. I was feeling dizzy and my head was aching like hell. I was literally not able to figure out what has happened to me.
+Then I figured out that it's the heat that is doing the damage. I took a bath and called Avdhesh. They were having lunch at a restaurant nearby and the plan was to go to Attari Border then. 
+I quickly got ready and rushed towards the restaurant. I was veryy hungry and dehydrated. We had Chhole-Kulche and Lassi there. During this, Nakul and Avdhesh took some information about "how to go to Attari Border".
+The answer was to hire a rickshaw and it'll take you to the border and bring you back to the Golden Temple.
+
+We hired one and he took us to the Border. This was the first time, when I was this close to the India-Pakistan border. Literally, 100 meters more and I would have entered into Pakistan.
+The atmosphere there was full of energy and enthusiasm. Crowd cheering "India... India....", "Vande Maataram", "Bharat Mata ki Jay" and what not. There were Army officials and Soldiers all around.
+We literally got goosebumps while shouting "Jayyyy" in response to "Bharat maata ki". The Pakistani side was easily visible from where we stood. People there were also outcrying "Pakistan Zindabad".
+The ceremony began after 15 mins and we sat down on our places. It was a great experience in watch all those soldiers marching in sync and performing those actions just to depict the power and
+dominance of India over Pakistan. The other side was doing the same thing though. Then came the famous move where soldiers from both the sides lift their leg high in the air and it is considered that
+higher the leg, more the pride. India was obviously better. The ceremony lasted for 45 mins and then we came back to our rickshaw. Amritsar was 22KM from the border. We started singing songs randomly 
+and the driver also enjoyed those😂. After travelling for 15-20 mins we reached Golden Temple. Roamed around it and went back to the Hotel. We were so full because of those Lassis that we didn't 
+even had dinner and another constraint was that we had to get out bike repaired, because....It was PUNCTURE again 🤦🏻‍♂️. Avdhesh and Yash took the initiative to do that and got that repaired.
+They came back with another story of the garage owner being rude and exaggerating things about his business. We heard those and laughed. Avdhesh and Yash have the best when it comes to sense of humour. 
+We then decided to sleep. We rested in the room for 3-4 hours and then I, Avdhesh and Nakul decided to go to the temple. This decision came into picture because we had to leave Amritsar early in the morning.
+Yash denied to come with us and he was in his deep sleep. 
+
+We three went to the temple. The Golden Temple looked awesome in the night. The lighting on the top of the temple reflected in the "kund" around it.
+There was peace. We sat down on one edge of the lake and relaxed for some time and admired the beauty of the temple. 
+We were feeling hungry now. Nakul suggested that we can have "Langar" here. We found the Langar hall and sat down there waiting for food. It was very delicious, we ate everything that was being served there.
+
+Then we returned to the hotel and slept.
+
 ---------------------------------------------------------
 
 ### Day 12
@@ -593,5 +657,62 @@ Amritsar - Delhi - Pune
 Departure - 10:00
 Arrival in Delhi - 20:00
 Arrival in Pune - 1:30
+
+
+And the day came.....The last day of Trip to Solace 2. but the adventure is not over yet. The coming day was having a lot of challenges for us.
+We got up a bit late in the morning at around 8:00. Yash was ready and had visited the temple already(Super fassssttt Guy). Rest of us got ready and started packing our bags.
+When we came downstairs, I got to know that my helmet is missing. I enquired the hotel staff about that but no luck. I wasn't even able to remember when did I last saw that.
+After searching for almost 15 mins, we concluded that the helmet is lost. So now, I had to ride 450KM in the scorching heat without a helmet. I immediately looked at the weather forecast
+and it said that today's high will be 45 degrees (Damn!!!!). Considering my state yesterday, I thought I am going to die in this heat today.
+While I was thinking this, another incident took place. The hotel owner came to us asking for the keys of the room where we stayed. I had the keys in my pocket and no one knew that. 
+Nakul and Avdhesh started arguing with the guy that we don't have the keys. The argument lasted for 5-10 mins and was getting intense and serious as the voices were raising. Then I stepped in 
+and handed over the keys to the owner, considering that we were getting late. We had to catch our flight back to Pune at 23:00.
+
+We left the place and started to ride towards Delhi. It was 10:00 on the clock and the target was to reach Delhi by 18:00 considering everything will be fine during the day.
+But, "Prakrati ko kuch aur hi manzoor tha". After riding for 30KM, we stopped for breakfast and noticed that the bike is puncture again.🤦🏻‍♂️  
+We somehow dragged it to a garage nearby and get it repaired, we also forced the guy to check the tyre thoroughly as this was the 4th puncture in last 24 hours.
+He said that heat can be a factor for this and we agreed (we should not have). Yash was riding the bike and I was sitting behind him.
+
+After another 50-ish kilometers, BOOM!!!! the bike was puncture again. Fortunately, Nakul and Avdhesh were just ahead us so we managed to stop them. We again dragged the bike to a nearby garage
+which was very hard to find this time!!! The guy repaired the puncture quickly and assured us that this won't happen again. We trusted him and continued our ride. 
+I started feeling the heat now. It was 40 degrees and my face was literally burning because of the heat. I pulled out my bandana, dipped it into water and covered my face with it.
+yas was riding the bike and after another 40-50 KM, .....you know what happened 😓. Yes, bloody puncture!!!! again.
+We were riding for last 3 hours and we covered only 100 odd KM. "Dilli abhi bhi boht door thi". It was 13:00 on the clock. We had to reach Delhi anyhow by 19:00 so that we can submit the bikes and catch our flight.
+This time, the guy who repaired the puncture was a 14-15 years old boy. We were like, he won't be able to fix it completely. But exactly opposite to our expectations, he found the root cause of
+this recurring puncture problem. There was a nail in the tyre that was causing all the problem. He removed that and assured that our journey till Delhi will be flawless now.
+
+I asked Yash to let me ride the bike now. He agreed. We decided to follow a strategy that we'll stop at every 50-60 KM to let the tyres cool down and also to get ourselves refreshed.
+This worked for the next 150-170 KM. We crossed Jalandhar and Ludhiyana during this time and were about to reach Ambala (30 KM away). 
+
+But this day was in no mood to let us reach Delhi like this. The bike got punctured again. 
+I dropped Yash at a point and asked him to call either Avdhesh or Nakul and let them know about the situation.
+After enquiring a few garages, I found one who agreed to repair a Royal Enfield. I called Yash and told him about the place.
+He came to the shop and after a while, Nakul and Avdhesh also arrived. The guy told us that we need to change the tube.
+Avdhesh and Yash went into the city and bought a new tube. We got that installed in our bike.
+It was 16:30 on the clock. We were in no position to reach Delhi at or before 19:00. We stopped at a Burger King outlet to compensate our lunch cravings.
+
+One thing that was worth noticing here: Although the bike was getting punctured after an average of every 40-50KM and it was killing our time. But no one amongst us
+was getting irritated or frustrated on that or on each other. This is the kind of understanding and bonding that we share. Everyone understood the need of the hour and reacted accordingly.
+I'm not boasting here, but these three are the best travel companions I've ever had. 👏🏻
+
+Delhi was still 200KM away from us. We left the outlet within 20 mins and started riding towards Delhi. Fortunately, we didn't encounter any other puncture till Delhi after that.
+But something else, something biggg was waiting for us at Sonipat.
+
+I was getting dehydrated again and the bike started to wobbling because of the broken spokes. Yash asked me to handover the bike to him and I did that.
+
+We rode for 150KM after that without any hiccups. But then....just after Sonipat, we were out of fuel in our bike.
+
+The bike stopped on the highway and we were clueless about it. After investigating, we figured out that the petrol tank is empty. (facepalms)
+The nearest fuel station was 1.5KM away. We had to drag a 250KG elephant till there. We dragged it for 300 odd meters and stopped. Then a guy came on bike and asked us 
+about the situation. Yash asked him if he can help us. He agreed and told us to sit on the bike. He started pushing our bike with his leg while riding his own.
+I had seen this technique earlier and tried as well but I failed miserably. But this guys seemed to be a pro in that. He took us to the fuel station within 10 mins.
+We refueled our bike and left for Delhi. The heat was getting decreased with time. We were all wet in sweat and exhausted. Yash showed courage at this point and told me that
+he'll ride the bike till Karol Bagh (end point). It took us another hour to reach there. It was 20:00 on the clock. Avdhesh and Nakul were already there. We submitted the bike,
+completed all the paper work and left from there. We all sensed the end of "One heck of a Trip" while submitting those bikes. We took a cab till Railway Station from there. Dropped Nakul and Yash ther.
+Took the Last Selfie of the Trip together and then I Avdhesh took a Metro till Airport.
+
+Fortunately, the flight was delayed by half an hour. 
+We reached Pune by 1:30.  
+
 
 ---------------------------------------------------------
