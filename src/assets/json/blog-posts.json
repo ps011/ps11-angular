@@ -1,8 +1,8 @@
 [
   {
     "title": "A Trip to Solace",
-    "thumbnail": "assets/blog-posts/images/trip-to-solace-thumb.jpg",
-    "banner": "assets/blog-posts/images/trip-to-solace-banner.jpg",
+    "thumbnail": "assets/blog-posts/images/trip-to-solace/trip-to-solace-thumb.jpg",
+    "banner": "assets/blog-posts/images/trip-to-solace/trip-to-solace-banner.jpg",
     "shortDescription": "A trip to solace was from Indore to Manali then Kasol and Kheerganga",
     "author": "Prasheel Soni",
     "profileLink": "https://ps011.github.io",
@@ -13,8 +13,8 @@
   },
   {
     "title": "A Trip to Solace 2",
-    "thumbnail": "assets/blog-posts/images/trip-to-solace-2-thumb.jpg",
-    "banner": "assets/blog-posts/images/trip-to-solace-2-banner.jpg",
+    "thumbnail": "assets/blog-posts/images/trip-to-solace-2/trip-to-solace-2-thumb.jpg",
+    "banner": "assets/blog-posts/images/trip-to-solace-2/trip-to-solace-2-banner.jpg",
     "shortDescription": "A trip to Solace 2 was from Pune to Delhi then to Leh and Ladakh Region",
     "author": "Prasheel Soni",
     "profileLink": "https://ps011.github.io",
