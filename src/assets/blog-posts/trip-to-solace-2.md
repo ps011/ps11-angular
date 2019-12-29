@@ -4,9 +4,16 @@ Pune - Delhi
 Departure - 18.00
 Arrival - 20.00
 
-And the most awaited trip was about to begin. It is going to have everything, Mountains, Bike, Snow, Adventure and last but not the least My best friends.
+And the most awaited trip of my life is about to begin. It is going to have everything, Mountains, Bike, Snow, Adventure, Thrill, Patriotism  and last but not the least My Best Friends.
 
-The journey began from Pune (for Me and Avdhesh). We met at the airport and boarded the flight. We reached Delhi at around 20:00. From there, we took a Metro to Delhi Railway station.
+The journey began from Pune (for Me and Avdhesh). We met at the airport and boarded the flight to Delhi. 
+
+<div style="text-align:center">
+<img src="assets/blog-posts/images/trip-to-solace-2/1.jpg" height="200" />
+</div>
+
+We reached Delhi at around 20:00. From there, we took a Metro to Delhi Railway station.
+
 Nakul and Yash had reached Delhi in the morning. So they tested(hopefully) and took the bikes from Karol Bagh and were supposed to meet us at the Railway Station.
 We reached the station and called Nakul. He said that he's standing beside the KFC outlet. We immediately went there.
 
@@ -22,7 +29,11 @@ to listen to anyone. So we allowed him to ride. And the ride finally began 🎉�
 
 4 School Friends, 2 Royal Enfields, 12 Days, 6 States, 3500 KM and Memories for a lifetime. 
 
-As soon as we started, we knew that this is going to be one heck of a Trip, A TRIP TO SOLACE 2. 
+As soon as we started, we knew that this is going to be one heck of a Trip, A TRIP TO SOLACE 2.
+
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/2.jpg" height="200" />
+ </div>
 
 
 Delhi - Karnal
@@ -64,6 +75,9 @@ Arrival - 13.00
 We woke up the next day and got ready quickly. We left the hotel at 9.30.
 The target for the day was to hit Jammu before 22:00. Jammu was 470 KM away.
 We had our breakfast at a restaurant on the highway and started riding.
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/3.jpg" height="200" />
+ </div>
 The highway was good and was also pretty much straight and the bikes were also performing good till then.
 We rode till Ambala continuously which was 80 KM from Karnal. It was 13:00 on the clock. 
 
@@ -78,6 +92,9 @@ We were exhausted and dehydrated because of the rise in temperature. We stopped 
 Parked our bikes and asked for chilled water. We then had our lunch there only. 
 Jammu was still 230 KM away from us and the energy was going down.
 Seeing that, we decided to rest for a while and then leave.
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/4.jpg" height="200" />
+ </div>
 
 Jalandhar - Jammu
 Departure - 17.30
@@ -85,11 +102,20 @@ Arrival - 21.15
 
 We left from Jalandhar at around 17:30. The temperature started to drop now.
 The road was straight so we increased our speed a bit to cover up the time.
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/5.jpg" height="200" />
+ </div>
 After riding for almost 3 and a half hours, we entered the state of Jammu and Kashmir.
 It was an exhilarating feeling with a tiny bit of fear inside us just because of the situations in the valley.
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/6.jpg" height="200" />
+ </div>
 The sun was setting in front of us and the sky was getting darker. The temperature was also dropping with time.
 We refuelled our bikes and asked some locals about the best way to reach Jammu. They suggested us to take the longer path just because it was safe.
 After riding for another 1 and a half hour, we reached Jammu. That too on time 🎉. It was 21:15 on the clock.
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/7.jpg" height="200" />
+ </div>
 We searched for a Hotel and checked in there. Had our dinner there only and slept to charge up for the next day.
 
 We rode almost 500 KM and crossed 4 states in between. 
@@ -105,22 +131,32 @@ Arrival - 15.00
 We started our journey from Jammu to Srinagar at 10:00 that day.
 The target was to reach Srinagar as early as possible but the locals told us that the road conditions are not good after Udhampur.
 We had our breakfast on a Dhaba outside of Jammu. Got our bikes checked at a garage, clicked some pictures and started the ride.
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/8.jpg" height="200" />
+ </div>
 We encountered the Vaishno Devi Hill in the way. It was visible from the highway but was far away. We also got to know that there's a city named Dhar nearby 😃.
 It was all going good till Udhampur, the ride was smooth and we took very less time to reach there. Problems were waiting for us after that.
-
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/10.jpg" height="200" />
+ </div>
 
 Udhampur - Srinagar
 Departure - 15.00
 Arrival - 22.00
 
 The road from Udhampur to Srinagar was still under construction. 
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/9.jpg" height="200" />
+ </div>
 There were landslides, traffic jams and whatnot. While passing through a landslide-prone area, 
 a stone slid in front of our bike. I still cannot forget that sight. 1 second ahead or behind and we were hit.
 But thankfully, we crossed that safely and reached a point where we saw some food stalls. I had Maggi there and others went for Omelet.
 We then recharged ourselves and started the ride to complete Mission Srinagar. We crossed the longest tunnel of India (Chenani-Nushri Tunnel) which was 9 KM long.
 Then we crossed the Jawahar Tunnel. I was amazed to see it. It was a single laned tunnel with gates installed on either side for security purpose.
 The sun started setting, the temperature started dipping and we reached the Titanic Point. Clicked some awesome pictures there and bought some berries. 
-
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/11.jpg" height="200" />
+ </div>
 We then continued to ride till a Toll Plaza before Srinagar. We stopped there for a loo and hydration break. Srinagar was 25 KM from there and it was too dark everywhere.
 We were encountering army barracks now and then as we approached Srinagar.
 We also encountered places like Pulwama, Anantnag, Tral, Uri, Avantipora, Pampore etc on the milestones. This was making us scared but the army barracks and check posts compensated that.
@@ -129,7 +165,9 @@ The plan was to check in to a Boat House after having dinner.
 So we had dinner at a lakeside restaurant and Nakul negotiated with the boathouse guys. We finally got a boathouse.
 Then we loaded our luggage into the boat which took us to the boathouse.
 We reached there and crashed on the bed. It was too cold there but we were exhausted so that failed to bother us.
-
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/12.jpg" height="200" />
+ </div>
 
 ---------------------------------------------------------
 
@@ -140,6 +178,10 @@ Departure - 9.00
 Arrival - 13.00
 
 We started from Srinagar at 9:00 on Day 3. The plan was to reach Kargil by 18:00.
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/13.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/14.jpg" height="200" />
+ </div>
 We skipped breakfast that day just because we had to cross Zozila Pass which had specific timings for riders.
 We were headed towards Sonamarg and from there we had to go to Kargil.
 We got our bikes checked before leaving Srinagar. Nakul and I were on one bike and Avdhesh and Yash were on the other.
@@ -151,7 +193,10 @@ He was shocked!!!!!! Took the phone from us and checked it. We then stopped at a
 After lunch, we rode for almost an hour and reached Sonamarg. 
 
 It was beautiful 😍. The snow-capped mountains with greenery at the base. The view was picturesque. We clicked a lot of pictures there and then left the place to continue our ride to Kargil.
-
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/16.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/15.jpg" height="200" />
+ </div>
 Sonmarg - Zojila - Zero Point
 Departure - 13.30
 Arrival - 16.00
@@ -161,6 +206,10 @@ There was a long line of Army trucks crossing the pass. and we followed them.
 The road was too narrow and not at all good. One mistake and we could have fallen in the ditch on our right.
 The bikes responded properly at times when required and it took us one hour to cross that 14 KM stretch.
 After descending from Zozila Pass, we reached Zero Point, the first point in our trip where we were able to touch and play with snow.
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/17.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/18.jpg" height="200" />
+ </div>
 We stopped our bikes there and negotiated with a sledge owner over there. He agreed to give his sledge to us for half an hour.
 We had multiple sledge rides during that time. Meanwhile, I saw a place where water was frozen in a circular shape. 
 Out of curiosity, I went near to that. As soon as I reached close to that and BOOMMMM!!!!!!!! The layer of snow beneath me collapsed!!!!
@@ -179,6 +228,9 @@ The Blue Bike got punctured after Zero point.
 We were not able to find a mechanic who can repair it.
 We were stopping at every other village to find someone who can repair a Royal Enfield but we failed so we used to fill in air and rode towards the next village
 In between, we reached the Kargil War Memorial.
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/19.jpg" height="200" />
+ </div>
 We ditched all the worries of the punctured tyre and went there. Spent some time over there and got to know the history of Kargil War
 Fortunately, while coming out from there, we met a group of guys having an air pump. We borrowed that, filled in air and started to ride towards Kargil
 Before Kargil, we encountered a restaurant, we stopped by and luckily, we got a mechanic there and more to it, we got a hotel as well. 
@@ -196,11 +248,21 @@ Arrival - 13.00
 Had breakfast at the hotel where we stayed
 Halted after 30 km in Kargil for refuelling and internet break. Talked to our families on call and then started riding towards Lamayuru.
 While riding on the plain, peaceful and picturesque roads we met some Kashmiri kids on the way who were waving at us from their school.
+
+ <div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/21.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/20.jpg" height="200" />
+ </div>
 We stopped our bikes then and there and called them up. Those kids were way too cute 😍. We had some chocolates with us, so we gave them those.
 Kids were very happy and so were us. We clicked some pictures with them and then left. After riding a while, the bike started to wobble again.
 I and Avdhesh were riding that and we gracefully ignored that warning from our bike. We thought this is because of the uneven weight.
 The wobbling increased kilometre by kilometre and then a point came when a broken spoke pierced the tyre tube resulting in breaking some more spokes.
 The bike was not in a condition to be ridden further now. We were in the mid of Kargil and Lamayuru at an Army Cafe.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/22.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/23.jpg" height="200" />
+ </div>
+
 Avdhesh and Yash went to the cafe to ask if they can help us with the bike but they denied. They told us to enquire at one of the nearby check posts.
 Meanwhile, I got a call from Namrata, who was also travelling with the same schedule and was a bit behind us. She started from Sonamarg that day and was targeting Leh. 
 I told her about the situation and asked her if she can help us with it. She said that she'll look for some mechanic and try to bring him to help us.
@@ -211,6 +273,10 @@ I somehow managed to escape them and came back outside. Army personnel saw me ru
 I told him that our bike is broken. He called me inside. I talked to them and they agreed to help us.
 They came with us and removed the tyre of the broken bike, then we came to know that the spokes are broken and cannot be amended. So, the bike cannot be ridden ahead.
 The army men said that we can load the bike in a truck and take it to Leh.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/24.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/25.jpg" height="200" />
+ </div>
 We talked to a truck driver and he agreed to load the bike. 
 Nakul and Yash went with the truck.
 
@@ -248,6 +314,9 @@ Rest Day
 
 We woke up in the morning
 I and Nakul went to the DC office for the permit
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/26.jpg" height="200" />
+ </div>
 Took the permit and went to Mall Road for breakfast at Neha Cafe
 Then on the way to Guest House, we found Avdhesh and Yash at a mechanic shop
 We talked to a mechanic and he said that the Rim needs to be changed
@@ -264,6 +333,10 @@ After that, I started walking towards Shanti Stupa
 Then I got the sight of it
 I asked for a lift from a group of bikes and they took me to Shanti Stupa
 Finally, I reached Shanti Stupa and I started looking for Avdhesh and Yash because they got a lift till Shanti Stupa so I was expecting them there but I wasn't able to find them
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/27.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/28.jpg" height="200" />
+ </div>
 Then I went to the temple there and when I came out, I saw Nakul (unexpected 😂) 
 He was sitting on the stairs on the other side of SS 
 He told me that he just reached and others are on their way
@@ -286,9 +359,17 @@ Arrival - 10.00
 
 We started early from Leh and reached South Pullu where Army checked our permits.
 We stayed there for an hour and had our breakfast because the road was not clear and bikes were not allowed to go ahead.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/29.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/30.jpg" height="200" />
+ </div>
 After one and a half hour, we reached Khardungla. (The Highest Motorable Pass in the World)
 The condition of the road was too bad and the bike was skidding on the snow. Even ours skid once.
 It was too cold on the top. The temperature was touching -5 or -6 there.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/31.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/32.JPG" height="200" />
+ </div>
 We spent an hour there clicked pictures and then left for Hunder
 
 Khardung La - Diskit - Hunder
@@ -300,10 +381,21 @@ We started to descend from Khardung La
 The road was good after a couple of kilometres
 We witnessed an accident on the way and then we decided to ride with a bit more caution
 After riding for a while we came across the "Lakeer". A straight road. I stopped the bike there and we clicked a lot of pictures there.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/33.JPG" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/34.jpg" height="200" />
+ </div>
 We reached Diskit and had our Lunch thereafter we moved towards Hunder then which was 7 km away from Diskit.
-Another 20 mins and we reached Hunder. Then we went to the dunes
+Another 20 mins and we reached Hunder. Then we went to the dunes.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/37.JPG" height="200" />
+ </div>
 We played Sudden Story there on the dunes. After an hour, we started to search for hotels/camps
 Finally, after an hour we found camps (DE Nubra) 
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/35.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/36.jpg" height="200" />
+ </div>
 We stayed there.
 
 ---------------------------------------------------------
@@ -317,6 +409,10 @@ Arrival - 12:00
 
 We had our breakfast at the camps and then we left at around 11:00. I met a Mastercard guy there 😂.
 We got the bikes checked and reached Diskit Monastry at around 12:00
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/38.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/39.jpg" height="200" />
+ </div>
 We stayed at the Monastery for about an hour, enjoyed the enormous statue and clicked a lot of pictures.
 We tried meditation as well for some time there 😂. I and Yash failed miserably at it. So we decided to
 come out and enjoy the views. Meanwhile, we defined an altogether different meaning of OM and that remains between both of us.
@@ -331,12 +427,22 @@ We started for Pangong through the Adam-Shyok route. People said that not many o
 but we decided to go on that because we were short of time.
 Eventually, we got to know that the road runs on a river bed and is severely damaged at some points
 On our way to Pangong, we clicked a lot of pictures, crossed some very bad roads and water crossings.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/40.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/41.jpg" height="200" />
+ </div>
 We stopped by Durbuk to have lunch and we got our bikes refuelled there. There's no fuel station there,
 but the locals sell petrol in bottles.
 After lunch, we headed towards Pangong, and after riding for almost 3-3.5 hours, we reached the world-famous Pangong Lake.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/42.jpg" height="200" />
+ </div>
 We straight away searched for camps and the task was given to Me and Nakul. We finally got one and we stayed there.
 That night, we had a bonfire and stargazing. We met a group of 3 Punjabis who were ready to accompany us on our trip till Leh.
 We tried a lot to capture the Milky Way but we were only able to witness it as our
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/43.jpg" height="200" />
+ </div>
 cameras were not that good. We slept at around 2:00.
 
 ---------------------------------------------------------
@@ -354,11 +460,18 @@ We slept with 3-4 layers on ourselves then too we felt cold.
 We got ready and left for the Pangong lake sightseeing.
 It was a 2-3 KM ride from the tents and was by the lakeside.
 We captured a lot of pictures and the lake was very beautiful.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/44.jpg" height="200" />
+ </div>
 The water was turquoise. I saw this kind of a water body for the first time in my life.
 We spent almost an hour there.
 We also tried some archery and captured some pictures on a Yak as well.
 After that, we left the tents and there we loaded all our bags on the bike and started our journey for the rest of the day. This time, with 3 more companions.
 
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/46.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/47.jpg" height="200" />
+ </div>
 When started, we suspected that the journey today is going to be tough as we'll encounter Changla Pass and that thing proved right.
 Everyone was wearing 3-4 layers of clothes.
 We crossed Durbuk without any difficulty and then the test of our and our bikes started.
@@ -382,6 +495,10 @@ and went out of control, but Nakul managed it pretty well👏🏻.
 
 Finally, we reached Changla Pass at around 14:00. We stayed there for some 15-20 mins, clicked some pictures 
 and then left for Karu via Shakti.
+
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/45.jpg" height="200" />
+ </div>
 
 
 Changla Pass - Shakti - Karu
@@ -424,6 +541,9 @@ Arrival - 19:30
 
 We left at around 18:30 from Karu. It was a 35-45 min ride from Karu to Leh. We saw another monastery in between.
 The guys with us told that the song "Sanam Re" was shot in that monastery.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/48.jpg" height="200" />
+ </div>
 Finally, we reached Leh...Again!!. 
 We searched for some hotels and we found a couple of them in the mid of the City. 
 Since we had a lot of time, we decided to explore Leh, a bit more.
@@ -434,6 +554,7 @@ After some time, I got a text from Namrata saying that she's also in Leh and sta
 This was the second time when we travelled to the same place.
 I went on to meet her. I returned at around 23.30-00.00.
 We planned for the next day to see the Leh Palace first and then leave towards Srinagar.
+
 
 ---------------------------------------------------------
 
@@ -446,6 +567,9 @@ Arrival - 23:30
 
 We got up a bit late in the morning. 
 Got ready quickly, loaded our bikes and left for the Leh Palace.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/49.jpg" height="200" />
+ </div>
 Leh Palace is an old building turned into an exhibition hall.
 We reached there, explored that, clicked some photographs and spent around an hour there.
 When we came back to our bikes.....an uninvited problem was waiting for us.
@@ -466,7 +590,10 @@ Shri Patthar Sahib Gurudwara. We reached there at noon. We spent around an hour 
 Heard about the story of Patthar Sahib Gurudwara and left for the next stop. 
 From there, we stopped by the Magnetic Hill and tried to understand the logic of it. But it seems quite evident that there was nothing like Magnetic field in that Hill.
 I was excited to see this but was disappointed. It was just a slant road going down on which vehicles automatically move.
-
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/50.jpg" height="200" />
+ <img src="assets/blog-posts/images/trip-to-solace-2/51.jpg" height="200" />
+ </div>
 We stayed there for around 10 mins and then started our journey towards Kargil. When we left for Lamayuru, Nakul and Avdhesh took some lead and went ahead.
 I and Yash were behind. Suddenly, the accelerator of our bike stopped working. I tried very hard by pulling the throttle but no luck. As it was a steep descent, we rode for around 3-4 km without and juice but then the road was flat.
 I tried to alert the Guys ahead of us by ringing the emergency horn, but they were way too far and weren't able to hear us.
@@ -518,7 +645,9 @@ Finally, we crossed the Zozila Pass and after riding for another hour, we reache
 We were hungry AF. So we stopped by a North Indian restaurant for dinner. It was 23:00 on the clock.
 We decided to stay in Sonamarg, as it was almost midnight, we were tired and the breaks were also not properly working.
 We unloaded the bikes and stayed in a hotel nearby.  
-
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/52.jpg" height="200" />
+ </div>
  
 
 
@@ -548,6 +677,9 @@ This was another factor that slowed us down.
 When we reached Srinagar, we decided that we'll not waste much time here and leave ASAP. But we ended up spending 2.5 hours there.
 First, we went to the Mughal garden (suggested by someone on the way). It was HOT🔥. The temperature was touching 40C.
 We roamed around in the garden and witnessed some pretty good flora there. Clicked a lot of pictures and embraced the beauty.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/53.jpg" height="200" />
+ </div>
 One funny thing that we noticed in that garden was, people were bathing in the fountains that were installed in the park to enhance the beauty of it.
 We left the garden after 40 mins and headed straight to the market, as Nakul wanted to get some dry fruits.
 We enquired about that and found out that Lal Chowk is the place. 
@@ -583,6 +715,9 @@ We said yes (but how did he guessed). By seeing the question mark on our faces, 
  We collected the walnuts in whatever we got, be it a cap, helmet, handkerchief, hoodie and what not.
  
  After an effort of 10 minutes, we were able to recover almost 75-80% of walnuts.😂😂 
+ <div style="text-align:center">
+  <img src="assets/blog-posts/images/trip-to-solace-2/54.jpg" height="200" />
+  </div>
  
  Then we quickly got on our bikes and started riding. It was 16.30 on the clock and we still had 434 KM to cover on that day, which ideally takes
  10 hours in a Car. We rushed quickly towards the highway.
@@ -681,7 +816,16 @@ The answer was to hire a rickshaw and it'll take you to the border and bring you
 
 We hired one and he took us to the Border. This was the first time when I was this close to the India-Pakistan border. 100 meters more and I would have entered into Pakistan.
 The atmosphere there was full of energy and enthusiasm. Crowd cheering "India... India....", "Vande Mataram", "Bharat Mata ki Jay" and whatnot. There were Army officials and Soldiers all around.
-We got goosebumps while shouting "Jayyyy" in response to "Bharat Mata ki". The Pakistani side was easily visible from where we stood. People there were also out crying "Pakistan Zindabad".
+We got goosebumps while shouting "Jayyyy" in response to "Bharat Mata ki".
+ 
+ <div style="text-align:center">
+  <img src="assets/blog-posts/images/trip-to-solace-2/56.jpg" height="200" />
+  <img src="assets/blog-posts/images/trip-to-solace-2/57.jpg" height="200" />
+  <img src="assets/blog-posts/images/trip-to-solace-2/58.jpg" height="200" />
+  <img src="assets/blog-posts/images/trip-to-solace-2/59.jpg" height="200" />
+  </div>
+ 
+ The Pakistani side was easily visible from where we stood. People there were also out crying "Pakistan Zindabad".
 The ceremony began after 15 mins and we sat down on our places. It was a great experience to watch all those soldiers marching in sync and performing those actions just to depict the power and
 dominance of India over Pakistan. The other side was doing the same thing though. Then came the famous move where soldiers from both the sides lift their leg high in the air and it is considered that
 higher the leg, more the pride. India was better. The ceremony lasted for 45 mins and then we came back to our rickshaw. Amritsar was 22KM from the border. We started singing songs randomly and the driver also enjoyed those😂. After travelling for 15-20 mins we reached the Golden Temple. Roamed around it and went back to the Hotel. We were so full because of those Lassis that we didn't even have dinner and another constraint was that we had to get out bike repaired, because....It was PUNCTURE again 🤦🏻‍♂️. Avdhesh and Yash took the initiative to do that and got that repaired.
@@ -689,6 +833,10 @@ They came back with another story of the garage owner being rude and exaggeratin
 We then decided to sleep. We rested in the room for 3-4 hours and then I, Avdhesh and Nakul decided to go to the temple. This decision came into the picture because we had to leave Amritsar early in the morning.
 Yash denied to come with us and he was in his deep sleep. 
 
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/60.jpg" height="200" />
+ 
+ </div>
 We three went to the temple. The Golden Temple looked awesome in the night. The lighting on the top of the temple reflected in the "kund" around it.
 There was peace. We sat down on one edge of the lake and relaxed for some time and admired the beauty of the temple. 
 We were feeling hungry now. Nakul suggested that we can have "Langar" here. We found the Langar hall and sat down there waiting for food. It was very delicious, we ate everything that was being served there.
@@ -726,6 +874,9 @@ Yash was riding the bike and after another 40-50 KM, .....you know what happened
 We were riding for the last 3 hours and we covered only 100 odd KM. "Dilli Abhi Bhi boht door thi". It was 13:00 on the clock. We had to reach Delhi anyhow by 19:00 so that we can submit the bikes and catch our flight.
 This time, the guy who repaired the puncture was a 14-15 years old boy. We were like, he won't be able to fix it completely. But exactly opposite to our expectations, he found the root cause of
 this recurring puncture problem. There was a nail in the tyre that was causing all the problem. He removed that and assured that our journey till Delhi will be flawless now.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/55.jpg" height="200" />
+ </div>
 
 I asked Yash to let me ride the bike now. He agreed. We decided to follow a strategy that we'll stop at every 50-60 KM to let the tyres cool down and also to get ourselves refreshed.
 This worked for the next 150-170 KM. We crossed Jalandhar and Ludhiyana during this time and were about to reach Ambala (30 KM away). 
@@ -755,6 +906,9 @@ We refuelled our bike and left for Delhi. The heat was getting decreased with ti
 he'll ride the bike till Karol Bagh (endpoint). It took us another hour to reach there. It was 20:00 on the clock. Avdhesh and Nakul were already there. We submitted the bike,
 completed all the paperwork and left from there. We all sensed the end of "One heck of a Trip" while submitting those bikes. We took a cab till Railway Station from there. Dropped Nakul and Yash there.
 Took the Last Selfie of the Trip together and then I Avdhesh took a Metro till Airport.
+<div style="text-align:center">
+ <img src="assets/blog-posts/images/trip-to-solace-2/61.jpg" height="200" />
+ </div>
 
 Fortunately, the flight was delayed by half an hour. 
 We reached Pune by 1:30.  
