@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import blogPosts from '../../assets/json/blog-posts.json';
+import {BlogService} from '../services/blog.service';
 @Component({
   selector: 'app-blog-carousel',
   templateUrl: './blog-carousel.component.html',
@@ -31,12 +31,14 @@ export class BlogCarouselComponent implements OnInit {
       }
     }
   };
-  blogPosts = blogPosts;
+  blogPosts;
 
-  constructor() { }
+  constructor(public blogService: BlogService) { }
 
   ngOnInit() {
-    console.log(blogPosts);
+    this.blogService.getAllBlogs().subscribe(blogs => {
+      this.blogPosts = blogs;
+    });
   }
 
 }

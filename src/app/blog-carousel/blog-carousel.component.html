@@ -15,20 +15,19 @@
       </div><!-- end col -->
     </div><!-- end row -->
     <div class="row">
-      <div class="col-sm-12">
-
-        <owl-carousel [options]="carouselOptions" [carouselClasses]="['owl-theme', 'row', 'sliding']">
-                    <div class="item" *ngFor="let blog of blogPosts">
+<!--      <div class="col-sm-12">-->
+<!--        <owl-carousel [options]="carouselOptions" [carouselClasses]="['owl-theme', 'row', 'sliding']">-->
+                    <div class="item col-sm-12 col-md-4 col-lg-3" *ngFor="let blog of blogPosts">
                       <article class="post-wrap">
                         <div class="post-thumb">
                           <img src={{blog.thumbnail}} alt="Blog Image">
                         </div><!--End post-thumb -->
                         <div class="post-content">
                           <div class="post-title">
-                            <h3><a [routerLink]="['/blog', blog.link]">{{blog.title}}</a></h3>
+                            <h3><a [routerLink]="['/blog', blog._id]">{{blog.title}}</a></h3>
                           </div><!--End post-title -->
                           <div class="post-excerpt">
-                            <p>{{blog.shortDescription}}...<a class="btn-more" [routerLink]="['/blog', blog.link]">Read More <i class="fa fa-angle-double-right"></i></a></p>
+                            <p>{{blog.shortDescription}}...<a class="btn-more" [routerLink]="['/blog', blog._id]">Read More <i class="fa fa-angle-double-right"></i></a></p>
                           </div><!--End post-excerpt -->
                           <div class="post-meta">
                             <span><i class="fa fa-user"></i><a href={{blog.profileLink}}>{{blog.author}}</a></span><br>
@@ -38,8 +37,8 @@
                         </div><!--End post-content -->
                       </article><!--End post-wrap -->
                     </div><!--End item -->
-        </owl-carousel>
-      </div><!-- end col -->
+<!--        </owl-carousel>-->
+<!--      </div>&lt;!&ndash; end col &ndash;&gt;-->
     </div><!-- end row -->
   </div><!-- end container -->
 </section>
