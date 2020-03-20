@@ -2,13 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## 1.0.0 (2019-11-26)
+## 1.1.0 (2019-12-29)
 
 
 ### Features
 
 * **analytics:** add analytics script ([dd0c403](https://github.com/ps011/ps11/commit/dd0c4032f470c35eb42c39f4d90e16f9d2acca7c))
-* **blog:** add blog code and blog contents ([#9](https://github.com/ps011/ps11/issues/9)) ([797d90f](https://github.com/ps011/ps11/commit/797d90f2bd3dd46d9522d7f5cdba8ce378e9c827))
 * **package.json:** add standard-version for release efficiency ([cffc192](https://github.com/ps011/ps11/commit/cffc192c9f261d1f43a62709aefe48bca6d49692))
 
 
