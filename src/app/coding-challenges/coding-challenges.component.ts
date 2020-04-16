@@ -20,7 +20,7 @@ export class CodingChallengesComponent implements OnInit {
     thumbnail: 'https://res.cloudinary.com/designu/image/upload/v1587068180/thumbnails/100daysofcode.png',
     author: 'Prasheel Soni',
     profileLink: 'https://github.com/ps011',
-    link: 'https://github.com/100daysofcode',
+    link: 'https://ps011.github.io/100daysofcode',
   }];
 
   constructor() {
