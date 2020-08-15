@@ -1,0 +1,43 @@
+<section id="blog" class="blog blog-style2">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <!-- start section title-wrap -->
+        <div class="title-wrap">
+          <div class="section-title-box">
+            <h2 class="section-title">Coding  <strong>Challenges</strong></h2>
+          </div><!-- end section-title-box -->
+        </div>
+        <!-- end section title-wrap -->
+<!--        <div class="text-center">-->
+<!--          Text goes here-->
+<!--        </div>&lt;!&ndash; end intro-text &ndash;&gt;-->
+      </div><!-- end col -->
+    </div><!-- end row -->
+    <div class="row">
+      <!--      <div class="col-sm-12">-->
+      <!--        <owl-carousel [options]="carouselOptions" [carouselClasses]="['owl-theme', 'row', 'sliding']">-->
+      <div class="item col-sm-12 col-md-4 col-lg-3" *ngFor="let challenge of codingChallenges">
+        <article class="post-wrap">
+          <div class="post-thumb">
+            <img src={{challenge.thumbnail}} alt="Challenge Image">
+          </div><!--End post-thumb -->
+          <div class="post-content">
+            <div class="post-title">
+              <h3><a [href]="challenge.link" target="_blank">{{challenge.title}}</a></h3>
+            </div><!--End post-title -->
+            <div class="post-excerpt">
+              <p>{{challenge.shortDescription}}...<a class="btn-more" [href]="challenge.link" target="_blank">Read More <i class="fa fa-angle-double-right"></i></a></p>
+            </div><!--End post-excerpt -->
+            <div class="post-meta">
+              <span><i class="fa fa-user"></i><a href={{challenge.profileLink}}>{{challenge.author}}</a></span><br>
+              <!--                                <span><i class="fa fa-comments"></i><a href="#">8</a></span>-->
+            </div><!--End post-meta -->
+          </div><!--End post-content -->
+        </article><!--End post-wrap -->
+      </div><!--End item -->
+      <!--        </owl-carousel>-->
+      <!--      </div>&lt;!&ndash; end col &ndash;&gt;-->
+    </div><!-- end row -->
+  </div><!-- end container -->
+</section>

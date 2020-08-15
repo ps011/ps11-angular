@@ -7,30 +7,6 @@ import {BlogService} from '../services/blog.service';
 })
 export class BlogCarouselComponent implements OnInit {
 
-  carouselOptions = {
-    margin: 25,
-    responsiveClass: true,
-    responsive: {
-      0: {
-        items: 1,
-        nav: false
-      },
-      600: {
-        items: 3,
-        nav: false
-      },
-      1000: {
-        items: 4,
-        nav: false,
-        loop: false
-      },
-      1500: {
-        items: 4,
-        nav: false,
-        loop: false
-      }
-    }
-  };
   blogPosts;
 
   constructor(public blogService: BlogService) { }
