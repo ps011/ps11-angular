@@ -8,7 +8,7 @@ import {AboutService} from '../services/about.service';
 })
 export class AboutComponent implements OnInit {
 
-  about: any;
+  about = {};
 
   constructor(public aboutService: AboutService) { }
 
