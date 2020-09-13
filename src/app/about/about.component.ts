@@ -7,7 +7,6 @@ import {AboutService} from '../services/about.service';
   styleUrls: ['./about.component.scss']
 })
 export class AboutComponent implements OnInit {
-
   about: any = {};
 
   constructor(public aboutService: AboutService) { }
