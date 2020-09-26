@@ -1,43 +1,62 @@
-<section id="coding" class="blog blog-style2">
+<section class="section section-lg pt-lg-0 mt-5">
   <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <!-- start section title-wrap -->
-        <div class="title-wrap">
-          <div class="section-title-box">
-            <h2 class="section-title">Coding  <strong>Challenges</strong></h2>
-          </div><!-- end section-title-box -->
+    <h3 class="text-center mb-4 display-3">Coding Challenges</h3>
+    <div class="row justify-content-center">
+      <div class="col-lg-12">
+        <div class="row row-grid">
+          <div class="col-lg-4">
+            <div class="card card-lift--hover shadow border-0">
+              <div class="card-body py-5">
+                <div class="icon icon-shape icon-shape-primary rounded-circle mb-4">
+                  <i class="ni ni-check-bold"></i>
+                </div>
+                <h6 class="text-primary text-uppercase">Download Argon</h6>
+                <p class="description mt-3">Argon is a great free UI package based on Angular that includes the most important components and features.</p>
+                <div>
+                  <span class="badge badge-pill badge-primary">angular</span>
+                  <span class="badge badge-pill badge-primary">ng-bootstrap</span>
+                  <span class="badge badge-pill badge-primary">creative</span>
+                </div>
+                <a href="javascript:void(0)" class="btn btn-primary mt-4">Learn more</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="card card-lift--hover shadow border-0">
+              <div class="card-body py-5">
+                <div class="icon icon-shape icon-shape-success rounded-circle mb-4">
+                  <i class="ni ni-istanbul"></i>
+                </div>
+                <h6 class="text-success text-uppercase">Build Something</h6>
+                <p class="description mt-3">Argon is a great free UI package based on Angular that includes the most important components and features.</p>
+                <div>
+                  <span class="badge badge-pill badge-success">business</span>
+                  <span class="badge badge-pill badge-success">vision</span>
+                  <span class="badge badge-pill badge-success">success</span>
+                </div>
+                <a href="javascript:void(0)" class="btn btn-success mt-4">Learn more</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="card card-lift--hover shadow border-0">
+              <div class="card-body py-5">
+                <div class="icon icon-shape icon-shape-warning rounded-circle mb-4">
+                  <i class="ni ni-planet"></i>
+                </div>
+                <h6 class="text-warning text-uppercase">Prepare Launch</h6>
+                <p class="description mt-3">Argon is a great free UI package based on Angular that includes the most important components and features.</p>
+                <div>
+                  <span class="badge badge-pill badge-warning">marketing</span>
+                  <span class="badge badge-pill badge-warning">product</span>
+                  <span class="badge badge-pill badge-warning">launch</span>
+                </div>
+                <a href="javascript:void(0)" class="btn btn-warning mt-4">Learn more</a>
+              </div>
+            </div>
+          </div>
         </div>
-        <!-- end section title-wrap -->
-<!--        <div class="text-center">-->
-<!--          Text goes here-->
-<!--        </div>&lt;!&ndash; end intro-text &ndash;&gt;-->
-      </div><!-- end col -->
-    </div><!-- end row -->
-    <div class="row">
-      <!--      <div class="col-sm-12">-->
-      <!--        <owl-carousel [options]="carouselOptions" [carouselClasses]="['owl-theme', 'row', 'sliding']">-->
-      <div class="item col-sm-12 col-md-4 col-lg-3" *ngFor="let challenge of codingChallenges">
-        <article class="post-wrap">
-          <div class="post-thumb">
-            <img src={{challenge.thumbnail}} alt="Challenge Image">
-          </div><!--End post-thumb -->
-          <div class="post-content">
-            <div class="post-title">
-              <h3><a [href]="challenge.link" target="_blank">{{challenge.title}}</a></h3>
-            </div><!--End post-title -->
-            <div class="post-excerpt">
-              <p>{{challenge.shortDescription}}...<a class="btn-more" [href]="challenge.link" target="_blank">Read More <i class="fa fa-angle-double-right"></i></a></p>
-            </div><!--End post-excerpt -->
-            <div class="post-meta">
-              <span><i class="fa fa-user"></i><a href={{challenge.profileLink}}>{{challenge.author}}</a></span><br>
-              <!--                                <span><i class="fa fa-comments"></i><a href="#">8</a></span>-->
-            </div><!--End post-meta -->
-          </div><!--End post-content -->
-        </article><!--End post-wrap -->
-      </div><!--End item -->
-      <!--        </owl-carousel>-->
-      <!--      </div>&lt;!&ndash; end col &ndash;&gt;-->
-    </div><!-- end row -->
-  </div><!-- end container -->
+      </div>
+    </div>
+  </div>
 </section>

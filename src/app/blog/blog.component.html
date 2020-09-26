@@ -1,82 +1,40 @@
-<!-- start banner -->
-<section id="single-page-banner" class="page-title page-title-image blog-hbg">
-  <div class="container">
-    <div class="row blog-breadcrumb">
-      <div class="col-sm-6">
-        <h2>Prasheel's Blog</h2>
-      </div><!-- end col -->
-      <div class="col-sm-6">
-        <ul class="breadcrumb">
-          <li><a href="
-          /#blog">Blog</a></li>
-          <li class="active">{{blog.title}}</li>
-        </ul>
-      </div><!-- end col -->
-    </div><!-- end row -->
-  </div><!-- end container -->
-</section>
-<!-- end slider -->
-
-<div id="content" class="content">
-  <div class="container">
+<div class="content">
     <div class="row">
       <!-- start single-blog -->
-      <div id="single-post-content" class="col-sm-12">
+      <div class="col-sm-12">
         <article class="post">
-          <div class="post-image">
-            <img src={{blog.banner}} alt="Post Image">
+          <div>
+            <img src={{blog?.banner}} alt="Post Image" class="img-fluid post-image">
           </div><!-- end post-image -->
-          <div class="post-title">
-            <h1>{{blog.title}}</h1>
+          <div class="post-title container">
+            <h1>{{blog?.title}}</h1>
           </div><!-- end post-title -->
-          <div class="post-meta">
-            <span><i class="fa fa-user"></i><a href={{blog.profileLink}}>{{blog.author}}</a></span>
+          <div class="post-meta container">
+            <span><i class="fa fa-user"></i><a href={{blog?.profileLink}}>{{blog.author}}</a></span>
+            <br>
             <span><i class="fa fa-calendar"></i><a href="#">{{blog.date | date}}</a></span>
-<!--            <span><i class="fa fa-folder-open"></i><a href="#">General</a>,<a href="#">Media</a></span>-->
-<!--            <span><i class="fa fa-comments"></i><a href="#comment">8</a></span>-->
           </div><!-- end post-meta -->
 
-          <div class="post-body">
-           <markdown [src]="blog.content"></markdown>
+          <div class="post-body container">
+           <markdown [src]="blog?.content"></markdown>
           </div><!-- end post-body -->
 
           <!-- start share-icon -->
-          <div class="share-icon clearfix">
+          <div class="share-icon clearfix container">
             <span>Share this Post:</span>
             <ul class="list-inline list-social">
               <li>
                 <a href="#" class="social-icon social-icon-small social-icon-colored social-icon-facebook">
-                  <i class="fa fa-facebook"></i>
                   <i class="fa fa-facebook"></i>
                 </a>
               </li>
               <li>
                 <a href="#" class="social-icon social-icon-small social-icon-colored social-icon-twitter">
                   <i class="fa fa-twitter"></i>
-                  <i class="fa fa-twitter"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="social-icon social-icon-small social-icon-colored social-icon-gplus">
-                  <i class="fa fa-google-plus"></i>
-                  <i class="fa fa-google-plus"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="social-icon social-icon-small social-icon-colored social-icon-vimeo">
-                  <i class="fa fa-vimeo"></i>
-                  <i class="fa fa-vimeo"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#" class="social-icon social-icon-small social-icon-colored social-icon-pinterest">
-                  <i class="fa fa-pinterest"></i>
-                  <i class="fa fa-pinterest"></i>
                 </a>
               </li>
               <li>
                 <a href="#" class="social-icon social-icon-small social-icon-colored social-icon-linkedin">
-                  <i class="fa fa-linkedin"></i>
                   <i class="fa fa-linkedin"></i>
                 </a>
               </li>
@@ -86,5 +44,4 @@
         </article><!-- end post -->
       </div>
     </div>
-  </div>
 </div>
