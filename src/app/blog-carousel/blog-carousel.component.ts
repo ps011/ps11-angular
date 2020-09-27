@@ -14,7 +14,6 @@ export class BlogCarouselComponent implements OnInit {
 
   ngOnInit() {
     this.blogService.getAllBlogs().subscribe((blogs: Blog[]) => {
-      console.log(blogs);
       this.blogPosts = blogs;
     });
   }
