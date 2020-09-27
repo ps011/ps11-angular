@@ -1,4 +1,4 @@
-<main class="profile-page">
+<main class="profile-page" id="about">
   <section class="section-profile-cover section-shaped my-0">
   </section>
   <section class="section">
@@ -9,36 +9,35 @@
             <div class="col-lg-3 order-lg-2">
               <div class="card-profile-image">
                 <a href="javascript:void(0)">
-                  <img src="./assets/images/profile/profile-image-3.jpg" class="rounded-circle">
+                  <img [src]="about?.imageUrl" class="rounded-circle">
                 </a>
               </div>
             </div>
             <div class="col-lg-4 order-lg-3 text-lg-right align-self-lg-center">
               <div class="card-profile-actions py-4 mt-lg-0">
-                <a href="javascript:void(0)" class="btn btn-sm btn-info mr-4">Connect</a>
-                <a href="javascript:void(0)" class="btn btn-sm btn-default float-right">Message</a>
+                <a [href]="about?.profiles[0].url" target="_blank" class="btn btn-sm btn-info mr-4"><i class="fa fa-linkedin mr-2"></i> Linkedin</a>
+                <a [href]="about?.profiles[1].url" target="_blank" class="btn btn-sm btn-default float-right"><i class="fa fa-github mr-2"></i> Github</a>
               </div>
             </div>
             <div class="col-lg-4 order-lg-1">
               <div class="card-profile-stats d-flex justify-content-center">
                 <div>
-                  <span class="heading">22</span>
-                  <span class="description">Friends</span>
+                  <span class="heading">3+</span>
+                  <span class="description">Years of Experience</span>
                 </div>
                 <div>
-                  <span class="heading">10</span>
-                  <span class="description">Photos</span>
+                  <span class="heading">4</span>
+                  <span class="description">Blog Posts</span>
                 </div>
                 <div>
-                  <span class="heading">89</span>
-                  <span class="description">Comments</span>
+                  <span class="heading">2</span>
+                  <span class="description">Coding Challenges</span>
                 </div>
               </div>
             </div>
           </div>
-          <div class="text-center mt-5">
+          <div class="text-center mt-2">
             <h3>Prasheel Soni
-<!--              <span class="font-weight-light">, 27</span>-->
             </h3>
             <div class="h6 font-weight-300"><i class="ni location_pin mr-2"></i>Pune, India</div>
             <div class="h6 mt-4"><i class="ni business_briefcase-24 mr-2"></i>Software Engineer - Mastercard</div>
@@ -53,8 +52,9 @@
                       <i class="ni ni-atom mr-2"></i> Skills
                     </ng-template>
                     <ng-template ngbTabContent>
-                      <p class="description">Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth.</p>
-                      <p class="description">Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse.</p>
+                     <div class="row text-center">
+                       <img class="img-fluid text-center col-3 col-sm-2 m-2" *ngFor="let skill of about?.skills" [src]="skill.logo" [alt]="skill.name">
+                     </div>
                     </ng-template>
                   </ngb-tab>
                   <ngb-tab>
@@ -62,7 +62,22 @@
                       <i class="ni ni-briefcase-24 mr-2"></i> Experience
                     </ng-template>
                     <ng-template ngbTabContent>
-                      <p class="description">Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</p>
+                      <main>
+                        <div class="row" *ngFor="let company of about.experience">
+                          <div class="col-3">
+                          <img [src]="company.logo" alt="Company Logo" class="img-fluid">
+                          </div>
+                          <div class="col-9">
+                            <blockquote class="blockquote text-center mb-0">
+                              <h4 class="mb-0">{{company.designation}} @ {{ company.company }}</h4>
+                              <p class="text-muted mb-0"> <small>( {{company.from}} - {{company.to}} )</small></p>
+                            </blockquote>
+                            <p class="my-2"><i class="ni ni-pin-3 mr-2"></i> {{company.location}}</p>
+                            <br>
+                            <span class="badge badge-pill badge-primary mx-1" *ngFor="let technology of company.technologies">{{technology}}</span>
+                          </div>
+                        </div>
+                      </main>
                     </ng-template>
                   </ngb-tab>
                   <ngb-tab>
@@ -70,7 +85,7 @@
                       <i class="ni ni-circle-08 mr-2"></i> About
                     </ng-template>
                     <ng-template ngbTabContent>
-                      <p class="description">Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth.</p>
+                      <p class="description" [innerHTML]="about?.about"></p>
                     </ng-template>
                   </ngb-tab>
                 </ngb-tabset>
@@ -82,211 +97,3 @@
     </div>
   </section>
 </main>
-
-<!--<section id="about" class="about about-timeline-style">-->
-<!--  <div class="container">-->
-<!--    <div class="row">-->
-<!--      <div class="col-sm-12">-->
-<!--        &lt;!&ndash; start section title-wrap &ndash;&gt;-->
-<!--        <div class="title-wrap">-->
-<!--          <div class="section-title-box">-->
-<!--            <h2 class="section-title">About <strong>Me</strong></h2> <small class="pull-right">(PROFESSIONALLY)</small>-->
-<!--          </div>&lt;!&ndash; end section-title-box &ndash;&gt;-->
-<!--        </div>-->
-<!--        &lt;!&ndash; end section title-wrap &ndash;&gt;-->
-<!--      </div>&lt;!&ndash; end col &ndash;&gt;-->
-<!--      <div class="col-sm-12">-->
-<!--        <div class="row">-->
-<!--          <div class="col-sm-6">-->
-<!--            <div class="profile-image">-->
-<!--              <img [src]=about?.imageUrl alt="profile photo">-->
-<!--            </div>&lt;!&ndash; end profile-image &ndash;&gt;-->
-<!--          </div>&lt;!&ndash; end col &ndash;&gt;-->
-<!--          <div class="col-sm-6">-->
-<!--            <div class="about-text" [innerHTML]="about.about">-->
-<!--              <div class="button-holder">-->
-<!--                <a class="btn btn-shutter-out-horizontal" [href]=about.resumeUrl>Download Resume</a>-->
-<!--                <a class="btn btn-shutter-out-horizontal" href="#contact">Hire Me</a>-->
-<!--              </div>&lt;!&ndash; end button-holder &ndash;&gt;-->
-<!--            </div>&lt;!&ndash; about-text &ndash;&gt;-->
-<!--          </div>&lt;!&ndash; end col &ndash;&gt;-->
-<!--        </div>&lt;!&ndash; end row &ndash;&gt;-->
-<!--      </div>&lt;!&ndash; end col-sm-12 &ndash;&gt;-->
-<!--      <div class="col-sm-12">-->
-<!--        <div class="nav-tab-menu">-->
-<!--          <ul class="nav nav-tabs">-->
-<!--            <li class="active"><a data-toggle="tab" data-target="#tab1" aria-expanded="true">-->
-<!--              <i class="fa fa-paper-plane-o"></i>-->
-<!--              <span class="tab-title text-bold">Career</span>-->
-<!--            </a></li>-->
-<!--            <li class=""><a data-toggle="tab" data-target="#tab2" aria-expanded="false">-->
-<!--              <i class="fa fa-graduation-cap"></i>-->
-<!--              <span class="tab-title text-bold">Education</span>-->
-<!--            </a></li>-->
-<!--&lt;!&ndash;            <li class=""><a data-toggle="tab" data-target="#tab3" aria-expanded="false">&ndash;&gt;-->
-<!--&lt;!&ndash;              <i class="fa fa-trophy"></i>&ndash;&gt;-->
-<!--&lt;!&ndash;              <span class="tab-title text-bold">Award</span>&ndash;&gt;-->
-<!--&lt;!&ndash;            </a></li>&ndash;&gt;-->
-<!--            <li class=""><a data-toggle="tab" data-target="#tab4" aria-expanded="false">-->
-<!--              <i class="fa fa-diamond"></i>-->
-<!--              <span class="tab-title text-bold">Skills</span>-->
-<!--            </a></li>-->
-<!--          </ul>-->
-<!--        </div>-->
-<!--        <div class="tab-content">-->
-<!--          <div id="tab1" class="tab-pane fade active in">-->
-<!--            <div class="icon-holder experience">-->
-<!--              <i class="fa fa-paper-plane-o"></i>-->
-<!--              <span class="tab-content-title text-bold">Career</span>-->
-<!--            </div>-->
-<!--            <ul class="timeline">-->
-<!--              <li class="timeline-right">-->
-<!--                <div class="timeline-badge">-->
-<!--                  <i class="fa fa-calendar"></i>-->
-<!--                  <p class="date-inverted">June 2019 - Present</p>-->
-<!--                </div>&lt;!&ndash; end timeline-badge &ndash;&gt;-->
-<!--                <div class="timeline-panel">-->
-<!--                  <div class="experience-content">-->
-<!--                    <img height="70" src="../../assets/images/profile/mastercard.png">-->
-<!--                    <h4>Mastercard Technologies Pvt. Ltd.</h4>-->
-<!--                    <h5>Engineer, Software Engineering</h5>-->
-<!--                    <p>The job is all about creating fast, optimised and awesome front-end applications</p>-->
-<!--                  </div>-->
-<!--                </div>&lt;!&ndash;end timeline-panel &ndash;&gt;-->
-<!--              </li>&lt;!&ndash; end timeline-right &ndash;&gt;-->
-<!--              <li class="timeline-left">-->
-<!--                <div class="timeline-badge">-->
-<!--                  <i class="fa fa-calendar"></i>-->
-<!--                  <p class="date">June-2018 - June 2019</p>-->
-<!--                </div>&lt;!&ndash; end timeline-badge &ndash;&gt;-->
-<!--                <div class="timeline-panel">-->
-<!--                  <div class="experience-content">-->
-<!--                    <img height="70" src="../../assets/images/profile/zensar.png">-->
-<!--                    <h4>Zensar Technologies</h4>-->
-<!--                    <h5>Software Engineer (Contingent worker @ Mastercard)</h5>-->
-<!--                    <p>The job was all about creating fast, optimised and awesome front-end applications. </p>-->
-<!--                  </div>-->
-<!--                </div>&lt;!&ndash; end timeline-panel &ndash;&gt;-->
-<!--              </li>&lt;!&ndash; end timeline-left &ndash;&gt;-->
-<!--              <li class="timeline-right">-->
-<!--                <div class="timeline-badge">-->
-<!--                  <i class="fa fa-calendar"></i>-->
-<!--                  <p class="date-inverted">July 2017 - June 2018</p>-->
-<!--                </div>&lt;!&ndash; end timeline-badge &ndash;&gt;-->
-<!--                <div class="timeline-panel">-->
-<!--                  <div class="experience-content">-->
-<!--                    <img height="70" src="../../assets/images/profile/hotwax.png">-->
-<!--                    <h4>HotWax Systems Pvt. Ltd.</h4>-->
-<!--                    <h5>Enterprise Software Engineer</h5>-->
-<!--                    <p>The job was all about creating enterprise grade hybrid mobile applications.</p>-->
-<!--                  </div>-->
-<!--                </div>&lt;!&ndash; end timeline-panel &ndash;&gt;-->
-<!--              </li>&lt;!&ndash; end timeline-right &ndash;&gt;-->
-<!--            </ul>&lt;!&ndash; end timeline &ndash;&gt;-->
-<!--          </div>-->
-<!--          <div id="tab2" class="tab-pane fade">-->
-<!--            <div class="icon-holder education">-->
-<!--              <i class="fa fa-graduation-cap"></i>-->
-<!--              <span class="tab-content-title text-bold">Education</span>-->
-<!--            </div>-->
-<!--            <ul class="timeline">-->
-<!--              <li class="timeline-left">-->
-<!--                <div class="timeline-badge">-->
-<!--                  <i class="fa fa-calendar"></i>-->
-<!--                  <p class="date">2021 ...</p>-->
-<!--                </div>&lt;!&ndash; end timeline-badge &ndash;&gt;-->
-<!--                <div class="timeline-panel">-->
-<!--                  <div class="experience-content">-->
-<!--                    <h4>Master's Degree</h4>-->
-<!--                    <h5>Coming Soon...</h5>-->
-<!--                  </div>-->
-<!--                </div>&lt;!&ndash;end timeline-panel &ndash;&gt;-->
-<!--              </li>&lt;!&ndash; end timeline-left &ndash;&gt;-->
-<!--              <li class="timeline-right">-->
-<!--                <div class="timeline-badge">-->
-<!--                  <i class="fa fa-calendar"></i>-->
-<!--                  <p class="date-inverted">2013 - 2017</p>-->
-<!--                </div>&lt;!&ndash; end timeline-badge &ndash;&gt;-->
-<!--                <div class="timeline-panel">-->
-<!--                  <div class="experience-content">-->
-<!--                    <h4>Bachelor's Degree</h4>-->
-<!--                    <h5>Acropolis Institute of Technology and Research</h5>-->
-<!--                  </div>-->
-<!--                </div>&lt;!&ndash; end timeline-panel &ndash;&gt;-->
-<!--              </li>&lt;!&ndash; end timeline-right &ndash;&gt;-->
-<!--              <li class="timeline-left">-->
-<!--                <div class="timeline-badge">-->
-<!--                  <i class="fa fa-calendar"></i>-->
-<!--                  <p class="date">2001 - 2012</p>-->
-<!--                </div>&lt;!&ndash; end timeline-badge &ndash;&gt;-->
-<!--                <div class="timeline-panel">-->
-<!--                  <div class="experience-content">-->
-<!--                    <h4>School Education</h4>-->
-<!--                    <h5>Kendriya Vidyalaya</h5>-->
-<!--                  </div>-->
-<!--                </div>&lt;!&ndash; end timeline-panel &ndash;&gt;-->
-<!--              </li>&lt;!&ndash; end timeline-left &ndash;&gt;-->
-<!--            </ul>&lt;!&ndash; end timeline &ndash;&gt;-->
-<!--          </div>-->
-<!--&lt;!&ndash;          <div id="tab3" class="tab-pane fade">&ndash;&gt;-->
-<!--&lt;!&ndash;            <div class="icon-holder education">&ndash;&gt;-->
-<!--&lt;!&ndash;              <i class="fa fa-trophy"></i>&ndash;&gt;-->
-<!--&lt;!&ndash;              <span class="tab-content-title text-bold">Award</span>&ndash;&gt;-->
-<!--&lt;!&ndash;            </div>&ndash;&gt;-->
-<!--&lt;!&ndash;            <ul class="timeline">&ndash;&gt;-->
-<!--&lt;!&ndash;              <li class="timeline-right">&ndash;&gt;-->
-<!--&lt;!&ndash;                <div class="timeline-badge">&ndash;&gt;-->
-<!--&lt;!&ndash;                  <i class="fa fa-calendar"></i>&ndash;&gt;-->
-<!--&lt;!&ndash;                  <p class="date-inverted">May 2017</p>&ndash;&gt;-->
-<!--&lt;!&ndash;                </div>&lt;!&ndash; end timeline-badge &ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;                <div class="timeline-panel">&ndash;&gt;-->
-<!--&lt;!&ndash;                  <div class="experience-content">&ndash;&gt;-->
-<!--&lt;!&ndash;                    <h4>People Awards</h4>&ndash;&gt;-->
-<!--&lt;!&ndash;                    <h5>Institute Name</h5>&ndash;&gt;-->
-<!--&lt;!&ndash;                    <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks.</p>&ndash;&gt;-->
-<!--&lt;!&ndash;                  </div>&ndash;&gt;-->
-<!--&lt;!&ndash;                </div>&lt;!&ndash;end timeline-panel &ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;              </li>&lt;!&ndash; end timeline-right &ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;              <li class="timeline-left">&ndash;&gt;-->
-<!--&lt;!&ndash;                <div class="timeline-badge">&ndash;&gt;-->
-<!--&lt;!&ndash;                  <i class="fa fa-calendar"></i>&ndash;&gt;-->
-<!--&lt;!&ndash;                  <p class="date">April 2016</p>&ndash;&gt;-->
-<!--&lt;!&ndash;                </div>&lt;!&ndash; end timeline-badge &ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;                <div class="timeline-panel">&ndash;&gt;-->
-<!--&lt;!&ndash;                  <div class="experience-content">&ndash;&gt;-->
-<!--&lt;!&ndash;                    <h4>People Awards</h4>&ndash;&gt;-->
-<!--&lt;!&ndash;                    <h5>Institute Name</h5>&ndash;&gt;-->
-<!--&lt;!&ndash;                    <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks.</p>&ndash;&gt;-->
-<!--&lt;!&ndash;                  </div>&ndash;&gt;-->
-<!--&lt;!&ndash;                </div>&lt;!&ndash; end timeline-panel &ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;              </li>&lt;!&ndash; end timeline-left &ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;              <li class="timeline-right">&ndash;&gt;-->
-<!--&lt;!&ndash;                <div class="timeline-badge">&ndash;&gt;-->
-<!--&lt;!&ndash;                  <i class="fa fa-calendar"></i>&ndash;&gt;-->
-<!--&lt;!&ndash;                  <p class="date-inverted">August 2015</p>&ndash;&gt;-->
-<!--&lt;!&ndash;                </div>&lt;!&ndash; end timeline-badge &ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;                <div class="timeline-panel">&ndash;&gt;-->
-<!--&lt;!&ndash;                  <div class="experience-content">&ndash;&gt;-->
-<!--&lt;!&ndash;                    <h4>People Awards</h4>&ndash;&gt;-->
-<!--&lt;!&ndash;                    <h5>Institute Name</h5>&ndash;&gt;-->
-<!--&lt;!&ndash;                    <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks.</p>&ndash;&gt;-->
-<!--&lt;!&ndash;                  </div>&ndash;&gt;-->
-<!--&lt;!&ndash;                </div>&lt;!&ndash; end timeline-panel &ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;              </li>&lt;!&ndash; end timeline-right &ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;            </ul>&lt;!&ndash; end timeline &ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;          </div>&ndash;&gt;-->
-<!--          <div id="tab4" class="tab-pane fade">-->
-<!--            <div class="row">-->
-<!--              <img class="col-sm-2" src="../../assets/images/logos/node-logo.png" alt="Node.JS Logo">-->
-<!--              <img class="col-sm-2" src="../../assets/images/logos/angular-logo.svg" alt="Node.JS Logo">-->
-<!--              <img class="col-sm-2" src="../../assets/images/logos/css3-logo.svg" alt="Node.JS Logo">-->
-<!--              <img class="col-sm-2" src="../../assets/images/logos/html5-logo.png" alt="Node.JS Logo">-->
-<!--              <img class="col-sm-2" src="../../assets/images/logos/js-logo.png" alt="Node.JS Logo">-->
-<!--              <img class="col-sm-2" src="../../assets/images/logos/stencil-logo.png" alt="Node.JS Logo">-->
-<!--            </div>&lt;!&ndash; end row &ndash;&gt;-->
-<!--          </div>-->
-<!--        </div>&lt;!&ndash; end tab-content &ndash;&gt;-->
-<!--      </div>&lt;!&ndash; end col-sm-12 &ndash;&gt;-->
-<!--    </div>&lt;!&ndash; end row &ndash;&gt;-->
-<!--  </div>&lt;!&ndash; end container &ndash;&gt;-->
-<!--</section>-->

@@ -14,6 +14,7 @@ export class CodingChallengesComponent implements OnInit {
     author: 'Prasheel Soni',
     profileLink: 'https://github.com/ps011',
     link: 'https://ps011.github.io/javascript30',
+    tags: ['html', 'css', 'javascript']
   }, {
     title: '100 Days of Code',
     shortDescription: '100 Days of Code is a 100 day challenge where in I will code for minimum an hour per day for 100 days',
@@ -21,6 +22,17 @@ export class CodingChallengesComponent implements OnInit {
     author: 'Prasheel Soni',
     profileLink: 'https://github.com/ps011',
     link: 'https://ps011.github.io/100daysofcode',
+    tags: [
+      'javascript',
+      '100days',
+      'code',
+      '100daysofcode',
+      'developer',
+      'web',
+      'nodejs',
+      'react',
+      'css'
+    ],
   }];
 
   constructor() {

@@ -1,57 +1,18 @@
-<section class="section section-lg pt-lg-0 mt-5">
+<section class="section section-lg pt-lg-0 mt-5" id="blog-posts">
   <div class="container">
     <h3 class="text-center mb-4 display-3">Blog Posts</h3>
     <div class="row justify-content-center">
       <div class="col-lg-12">
         <div class="row row-grid">
-          <div class="col-lg-4">
-            <div class="card shadow border-0">
-              <div class="card-body py-5">
+          <div class="col-lg-4" *ngFor="let blog of blogPosts">
+            <div class="card shadow border-0 my-2" data-aos-offset="300" data-aos="flip-right">
+              <div class="card-body">
                 <div class="mb-4">
-                  <img src="assets/images/profile/img-1-1200x1000.jpg" class="img-fluid">
+                  <img [src]="blog.thumbnail" class="img-fluid">
                 </div>
-                <h6 class="text-primary text-uppercase">Download Argon</h6>
-                <p class="description mt-3">Argon is a great free UI package based on Angular that includes the most important components and features.</p>
-                <div>
-                  <span class="badge badge-pill badge-primary">angular</span>
-                  <span class="badge badge-pill badge-primary">ng-bootstrap</span>
-                  <span class="badge badge-pill badge-primary">creative</span>
-                </div>
-                <a href="javascript:void(0)" class="btn btn-primary mt-4">Learn more</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="card shadow border-0">
-              <div class="card-body py-5">
-                <div class="mb-4">
-                  <img src="assets/images/profile/img-1-1200x1000.jpg" class="img-fluid">
-                </div>
-                <h6 class="text-primary text-uppercase">Download Argon</h6>
-                <p class="description mt-3">Argon is a great free UI package based on Angular that includes the most important components and features.</p>
-                <div>
-                  <span class="badge badge-pill badge-primary">angular</span>
-                  <span class="badge badge-pill badge-primary">ng-bootstrap</span>
-                  <span class="badge badge-pill badge-primary">creative</span>
-                </div>
-                <a href="javascript:void(0)" class="btn btn-primary mt-4">Learn more</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="card shadow border-0">
-              <div class="card-body py-5">
-                <div class="mb-4">
-                  <img src="assets/images/profile/img-1-1200x1000.jpg" class="img-fluid">
-                </div>
-                <h6 class="text-primary text-uppercase">Download Argon</h6>
-                <p class="description mt-3">Argon is a great free UI package based on Angular that includes the most important components and features.</p>
-                <div>
-                  <span class="badge badge-pill badge-primary">angular</span>
-                  <span class="badge badge-pill badge-primary">ng-bootstrap</span>
-                  <span class="badge badge-pill badge-primary">creative</span>
-                </div>
-                <a href="javascript:void(0)" class="btn btn-primary mt-4">Learn more</a>
+                <h6 class="text-primary text-uppercase">{{blog.title}}</h6>
+                <p class="description mt-3">{{blog.shortDescription}}</p>
+                <a [routerLink]="['/blog', blog._id]" class="btn btn-primary mt-4">Read more</a>
               </div>
             </div>
           </div>
