@@ -8,7 +8,6 @@ import { BannerComponent } from './banner/banner.component';
 import { AboutComponent } from './about/about.component';
 import { BlogCarouselComponent } from './blog-carousel/blog-carousel.component';
 import { InterestsComponent } from './interests/interests.component';
-import { OwlModule } from 'ngx-owl-carousel';
 import { BlogComponent } from './blog/blog.component';
 import { MarkdownModule } from 'ngx-markdown';
 import {HttpClient, HttpClientModule} from '@angular/common/http';
@@ -20,6 +19,8 @@ import {AuthGuardService} from './services/auth-guard.service';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { CodingChallengesComponent } from './coding-challenges/coding-challenges.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+
 
 export function tokenGetter() {
   return localStorage.getItem('token');
@@ -43,8 +44,8 @@ export function tokenGetter() {
     BrowserModule,
     FormsModule,
     AppRoutingModule,
-    OwlModule,
     HttpClientModule,
+    NgbModule,
     JwtModule.forRoot({
       config: {
         tokenGetter

@@ -1,44 +1,23 @@
-<section id="blog" class="blog blog-style2">
+<section class="section section-lg pt-lg-0 mt-5" id="blog-posts">
   <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <!-- start section title-wrap -->
-        <div class="title-wrap">
-          <div class="section-title-box">
-            <h2 class="section-title">Blog  <strong>Post</strong></h2>
-          </div><!-- end section-title-box -->
+    <h3 class="text-center mb-4 display-3">Blog Posts</h3>
+    <div class="row justify-content-center">
+      <div class="col-lg-12">
+        <div class="row row-grid">
+          <div class="col-lg-4" *ngFor="let blog of blogPosts">
+            <div class="card shadow border-0 my-2" data-aos-offset="300" data-aos="flip-right">
+              <div class="card-body">
+                <div class="mb-4">
+                  <img [src]="blog.thumbnail" class="img-fluid">
+                </div>
+                <h6 class="text-primary text-uppercase">{{blog.title}}</h6>
+                <p class="description mt-3">{{blog.shortDescription}}</p>
+                <a [routerLink]="['/blog', blog._id]" class="btn btn-primary mt-4">Read more</a>
+              </div>
+            </div>
+          </div>
         </div>
-        <!-- end section title-wrap -->
-        <div class="text-center">
-          A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my heart.
-        </div><!-- end intro-text -->
-      </div><!-- end col -->
-    </div><!-- end row -->
-    <div class="row">
-<!--      <div class="col-sm-12">-->
-<!--        <owl-carousel [options]="carouselOptions" [carouselClasses]="['owl-theme', 'row', 'sliding']">-->
-                    <div class="item col-sm-12 col-md-4 col-lg-3" *ngFor="let blog of blogPosts">
-                      <article class="post-wrap">
-                        <div class="post-thumb">
-                          <img src={{blog.thumbnail}} alt="Blog Image">
-                        </div><!--End post-thumb -->
-                        <div class="post-content">
-                          <div class="post-title">
-                            <h3><a [routerLink]="['/blog', blog._id]">{{blog.title}}</a></h3>
-                          </div><!--End post-title -->
-                          <div class="post-excerpt">
-                            <p>{{blog.shortDescription}}...<a class="btn-more" [routerLink]="['/blog', blog._id]">Read More <i class="fa fa-angle-double-right"></i></a></p>
-                          </div><!--End post-excerpt -->
-                          <div class="post-meta">
-                            <span><i class="fa fa-user"></i><a href={{blog.profileLink}}>{{blog.author}}</a></span><br>
-                            <span><i class="fa fa-calendar"></i>{{blog.date | date}}</span>
-<!--                                <span><i class="fa fa-comments"></i><a href="#">8</a></span>-->
-                          </div><!--End post-meta -->
-                        </div><!--End post-content -->
-                      </article><!--End post-wrap -->
-                    </div><!--End item -->
-<!--        </owl-carousel>-->
-<!--      </div>&lt;!&ndash; end col &ndash;&gt;-->
-    </div><!-- end row -->
-  </div><!-- end container -->
+      </div>
+    </div>
+  </div>
 </section>

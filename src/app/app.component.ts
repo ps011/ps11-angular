@@ -1,4 +1,5 @@
 import { Component, OnInit} from '@angular/core';
+import AOS from 'aos';
 
 @Component({
   selector: 'app-root',
@@ -7,15 +8,7 @@ import { Component, OnInit} from '@angular/core';
 })
 export class AppComponent implements OnInit {
   ngOnInit() {
-    window.addEventListener('scroll', this.bannerScrolled, true);
-  }
-
-  bannerScrolled() {
-    if (window.scrollY > 400) {
-      document.querySelector('.header-nav').classList.add('menu-bg');
-    } else {
-      document.querySelector('.header-nav').classList.remove('menu-bg');
-    }
+    AOS.init();
   }
 
 

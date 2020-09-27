@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import {ActivatedRoute} from '@angular/router';
-import blogData from '../../assets/json/blog-posts.json';
 import {BlogService} from '../services/blog.service';
 
 @Component({
@@ -11,7 +10,6 @@ import {BlogService} from '../services/blog.service';
 export class BlogComponent implements OnInit {
 
   blog: any;
-  blogSrc: string;
   constructor( private route: ActivatedRoute, public blogService: BlogService) {
   }
 
