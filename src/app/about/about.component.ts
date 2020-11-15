@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {AboutService} from '../services/about.service';
-import {About} from './about.interface';
+import About from '../interfaces/about.interface';
 
 @Component({
   selector: 'app-about',
@@ -15,7 +15,7 @@ export class AboutComponent implements OnInit {
   ngOnInit() {
     this.aboutService.getAboutByName('Prasheel')
       .subscribe((about: About) => {
-        this.about = about[0];
+        this.about = about;
       });
   }
 

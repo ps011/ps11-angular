@@ -53,7 +53,7 @@
                     </ng-template>
                     <ng-template ngbTabContent>
                      <div class="row text-center">
-                       <img class="img-fluid text-center col-3 col-sm-2 m-2" *ngFor="let skill of about?.skills" [src]="skill.logo" [alt]="skill.name">
+                       <img class="img-fluid text-center col-3 col-sm-2 m-2" *ngFor="let skill of about?.skills" [src]="skill?.logo" [alt]="skill?.name">
                      </div>
                     </ng-template>
                   </ngb-tab>
@@ -63,18 +63,18 @@
                     </ng-template>
                     <ng-template ngbTabContent>
                       <main>
-                        <div class="row" *ngFor="let company of about.experience">
+                        <div class="row" *ngFor="let company of about?.experience">
                           <div class="col-3">
                           <img [src]="company.logo" alt="Company Logo" class="img-fluid">
                           </div>
                           <div class="col-9">
                             <blockquote class="blockquote text-center mb-0">
-                              <h4 class="mb-0">{{company.designation}} @ {{ company.company }}</h4>
-                              <p class="text-muted mb-0"> <small>( {{company.from}} - {{company.to}} )</small></p>
+                              <h4 class="mb-0">{{company?.designation}} @ {{ company?.company }}</h4>
+                              <p class="text-muted mb-0"> <small>( {{company?.from}} - {{company?.to}} )</small></p>
                             </blockquote>
-                            <p class="my-2"><i class="ni ni-pin-3 mr-2"></i> {{company.location}}</p>
+                            <p class="my-2"><i class="ni ni-pin-3 mr-2"></i> {{company?.location}}</p>
                             <br>
-                            <span class="badge badge-pill badge-primary mx-1" *ngFor="let technology of company.technologies">{{technology}}</span>
+                            <span class="badge badge-pill badge-primary mx-1" *ngFor="let technology of company?.technologies">{{technology}}</span>
                           </div>
                         </div>
                       </main>
