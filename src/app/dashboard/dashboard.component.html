@@ -1,1 +1,166 @@
-<p>dashboard works!</p>
+<section class="section pb-0 bg-gradient-primary" id="dashboard">
+    <div class="container">
+        <div class="row row-grid align-items-center">
+            <div class="col-lg-4 card shadow mx-4 shadow-lg--hover" data-aos-offset="300" data-aos="fade-right"
+                (click)="open(about, 'EDIT_ABOUT')">
+                <div class="card-body">
+                    <div class="d-flex px-3">
+                        <div>
+                            <div class="icon icon-shape bg-gradient-success rounded-circle text-white">
+                                <i class="ni ni-satisfied"></i>
+                            </div>
+                        </div>
+                        <div class="pl-4 my-auto">
+                            <h5 class="title text-success">Edit About</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 card shadow mx-4 shadow-lg--hover" data-aos-offset="300" data-aos="fade-right"
+                (click)="open(blog, 'ADD_BLOG')">
+                <div class="card-body">
+                    <div class="d-flex px-3">
+                        <div>
+                            <div class="icon icon-shape bg-gradient-default rounded-circle text-white">
+                                <i class="ni ni-align-left-2"></i>
+                            </div>
+                        </div>
+                        <div class="pl-4 my-auto">
+                            <h5 class="title text-default">Add Blog</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- SVG separator -->
+    <div class="separator separator-bottom separator-skew zindex-100">
+        <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1"
+            xmlns="http://www.w3.org/2000/svg">
+            <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
+        </svg>
+    </div>
+</section>
+<!-- Modal Templates -->
+<div class="col-md-4">
+    <ng-template #about let-c="close" let-d="dismiss">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h6 class="modal-title" id="modal-title-default">Edit your About Section</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="d('Cross click')">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form *ngIf="aboutData else loader">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label for="name">Name</label>
+                                <input type="text" id="name" class="form-control" [value]="aboutData.name" disabled>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label for="descriptoin">Description</label>
+                                <textarea id="description" class="form-control form-control-alternative" rows="3"
+                                    [value]="aboutData.about" placeholder="Write About You here ..."></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label for="dp">Profile Image URL</label>
+                                <input type="text" id="dp" class="form-control" [value]="aboutData.imageUrl">
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label for="resume">Resume URL</label>
+                                <input type="text" id="resume" class="form-control" [value]="aboutData.resumeUrl">
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-link  ml-auto" data-dismiss="modal"
+                    (click)="c('Close click')">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </ng-template>
+
+    <ng-template #blog let-c="close" let-d="dismiss">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h6 class="modal-title" id="modal-title-default">Add a New Blog Here</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="d('Cross click')">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Title">
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Banner Link">
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Thumbnail Link">
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <textarea class="form-control form-control-alternative" rows="3"
+                                    placeholder="Short Description"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Author">
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Profile Link">
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Tags">
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Content">
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Link">
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-link  ml-auto" data-dismiss="modal"
+                    (click)="c('Close click')">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </ng-template>
+
+    <ng-template #loader>
+        Loading...
+    </ng-template>
+</div>

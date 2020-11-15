@@ -15,4 +15,8 @@ export class BlogService {
   getBlog(id) {
     return this.http.get(`https://ps11-backend.herokuapp.com/blogs/${id}`);
   }
+
+  createBlog(blog) {
+    return this.http.post('https://ps11-backend.herokuapp.com/blogs/create', blog);
+  }
 }
