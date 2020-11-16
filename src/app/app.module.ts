@@ -20,6 +20,7 @@ import {AuthGuardService} from './services/auth-guard.service';
 import {HeaderComponent} from './header/header.component';
 import {FooterComponent} from './footer/footer.component';
 import {CodingChallengesComponent} from './coding-challenges/coding-challenges.component';
+import { GoogleAnalyticsService } from './services/google-analytics.service';
 
 
 export function tokenGetter() {
@@ -56,7 +57,7 @@ export function tokenGetter() {
     MarkdownModule.forRoot({loader: HttpClient}),
 
   ],
-  providers: [AuthGuardService],
+  providers: [AuthGuardService, GoogleAnalyticsService],
   bootstrap: [AppComponent]
 })
 export class AppModule {

@@ -12,7 +12,7 @@
                 </div>
                 <h6 class="text-primary text-uppercase">{{blog.title}}</h6>
                 <p class="description mt-3">{{blog.shortDescription}}</p>
-                <a [routerLink]="['/blog', blog._id]" class="btn btn-primary mt-4">Read more</a>
+                <a (click)="redirectToBlog($event, blog)" class="btn btn-primary mt-4">Read more</a>
               </div>
             </div>
           </div>
