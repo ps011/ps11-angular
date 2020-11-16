@@ -30,10 +30,12 @@
             "styles": [
               "src/styles.scss",
               "src/assets/scss/argon.scss",
-              "node_modules/aos/dist/aos.css"
+              "node_modules/aos/dist/aos.css",
+              "node_modules/github-calendar/dist/github-calendar.css"
             ],
             "scripts": [
-              "node_modules/marked/lib/marked.js"
+              "node_modules/marked/lib/marked.js",
+              "node_modules/github-calendar/dist/github-calendar.min.js"
             ],
             "sourceMap": {
               "scripts": true,

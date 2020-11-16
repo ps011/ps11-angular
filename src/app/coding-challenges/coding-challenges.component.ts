@@ -1,11 +1,12 @@
-import {Component, OnInit} from '@angular/core';
+import { AfterViewInit, Component, OnInit} from '@angular/core';
+import GitHubCalendar from 'github-calendar';
 
 @Component({
   selector: 'app-coding-challenges',
   templateUrl: './coding-challenges.component.html',
   styleUrls: ['./coding-challenges.component.scss']
 })
-export class CodingChallengesComponent implements OnInit {
+export class CodingChallengesComponent implements AfterViewInit {
 
   codingChallenges = [{
     title: 'Javascript 30',
@@ -33,12 +34,30 @@ export class CodingChallengesComponent implements OnInit {
       'react',
       'css'
     ],
+  },
+  {
+    title: '5 🌟 on Hackerrank',
+    shortDescription: 'I took the challenge to hone my problem solving skills and started solving problems on Hackerrank. Soon I got my 5-star badge and I have solved more than 50 problems.',
+    thumbnail: 'https://res.cloudinary.com/designu/image/upload/v1587068180/thumbnails/100daysofcode.png',
+    author: 'Prasheel Soni',
+    profileLink: 'https://github.com/ps011',
+    link: 'https://github.com/ps011/hackerrank-practice',
+    tags: [
+      'javascript',
+      'competitive coding',
+      'code',
+      'problem solving',
+      'developer',
+      'web',
+      'nodejs',
+    ],
   }];
 
   constructor() {
   }
 
-  ngOnInit() {
+  ngAfterViewInit() {
+    new GitHubCalendar(".calendar", "ps011");
   }
 
 
