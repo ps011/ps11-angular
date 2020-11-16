@@ -6,3 +6,38 @@
 <script>
     new GitHubCalendar(".calendar", "ps011");
 </script>
+
+<div class="col-md-6">
+    <ng-template #subscription let-c="close" let-d="dismiss">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h6 class="modal-title" id="modal-title-default">Not Some Random Form/Subscription</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="d('Cross click')">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+                <div class="modal-body">
+                    <p>We all learn something in our day to day lives, be it work, travel, food, home, anything. I note
+                        down these stuffs on a regular basis. If you want to know what new did I learn, just enter your
+                        email and hit that Done button. I'll take care of the rest.</p>
+                        <div class="form-group mb-3">
+                            <div class="input-group input-group-alternative">
+                              <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="ni ni-email-83"></i></span>
+                              </div>
+                              <input 
+                              class="form-control" 
+                              placeholder="I Promise. No Spams ✌🏻" 
+                              [formControl]="email"
+                              type="email">
+                            </div>
+                          </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-link  ml-auto" data-dismiss="modal"
+                    (click)="c('Close click')">Close</button>
+                    <button type="button" class="btn btn-primary" (click)="subscribeEmail()">Done</button>
+                </div>
+        </div>
+    </ng-template>
+</div>
