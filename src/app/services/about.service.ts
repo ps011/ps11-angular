@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
+import About from '../interfaces/about.interface';
 
 @Injectable({
   providedIn: 'root'
@@ -21,8 +22,7 @@ export class AboutService {
       {name, about, imageUrl, resumeUrl});
   }
 
-  updateAbout(name, about,  imageUrl, resumeUrl) {
-    return this.http.post(`https://ps11-backend.herokuapp.com/about/update/${name}`,
-      {about, imageUrl, resumeUrl});
+  updateAbout(about: About) {
+    return this.http.post(`https://ps11-backend.herokuapp.com/about/update/${about.name}`,about);
   }
 }

@@ -1,4 +1,5 @@
 <section class="section pb-0 bg-gradient-primary" id="dashboard">
+    <button (click)="logout()" class="btn btn-danger logout">Logout</button>
     <div class="container">
         <div class="row row-grid align-items-center">
             <div class="col-lg-4 card shadow mx-4 shadow-lg--hover" data-aos-offset="300" data-aos="fade-right"
@@ -52,19 +53,21 @@
                 </button>
             </div>
             <div class="modal-body">
-                <form *ngIf="aboutData else loader">
+                <form *ngIf="aboutData else loader" [formGroup]="aboutForm" (ngSubmit)="updateAbout()">
                     <div class="row">
                         <div class="col-md-12">
                             <div class="form-group">
                                 <label for="name">Name</label>
-                                <input type="text" id="name" class="form-control" [value]="aboutData.name" disabled>
+                                <input type="text" id="name" class="form-control" [value]="aboutData.name"
+                                    formControlName="name" disabled>
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group">
-                                <label for="descriptoin">Description</label>
+                                <label for="description">Description</label>
                                 <textarea id="description" class="form-control form-control-alternative" rows="3"
-                                    [value]="aboutData.about" placeholder="Write About You here ..."></textarea>
+                                    formControlName="about" [value]="aboutData.about"
+                                    placeholder="Write About You here ..."></textarea>
                             </div>
                         </div>
                     </div>
@@ -72,22 +75,24 @@
                         <div class="col-md-12">
                             <div class="form-group">
                                 <label for="dp">Profile Image URL</label>
-                                <input type="text" id="dp" class="form-control" [value]="aboutData.imageUrl">
+                                <input type="text" id="dp" class="form-control" formControlName="imageUrl"
+                                    [value]="aboutData.imageUrl">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group">
                                 <label for="resume">Resume URL</label>
-                                <input type="text" id="resume" class="form-control" [value]="aboutData.resumeUrl">
+                                <input type="text" id="resume" class="form-control" formControlName="resumeUrl"
+                                    [value]="aboutData.resumeUrl">
                             </div>
                         </div>
                     </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-link  ml-auto" data-dismiss="modal"
+                            (click)="c('Close click')">Close</button>
+                        <button type="submit" class="btn btn-primary">Save changes</button>
+                    </div>
                 </form>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-link  ml-auto" data-dismiss="modal"
-                    (click)="c('Close click')">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
             </div>
         </div>
     </ng-template>
@@ -101,61 +106,64 @@
                 </button>
             </div>
             <div class="modal-body">
-                <form>
+                <form [formGroup]="addBlogForm" (ngSubmit)="addBlog()">
                     <div class="row">
                         <div class="col-md-12">
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Title">
+                                <input type="text" class="form-control" formControlName="title" placeholder="Title">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Banner Link">
+                                <input type="text" class="form-control" formControlName="banner"
+                                    placeholder="Banner Link">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Thumbnail Link">
+                                <input type="text" class="form-control" formControlName="thumbnail"
+                                    placeholder="Thumbnail Link">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group">
                                 <textarea class="form-control form-control-alternative" rows="3"
-                                    placeholder="Short Description"></textarea>
+                                    formControlName="shortDescription" placeholder="Short Description"></textarea>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Author">
+                            <input type="text" class="form-control" formControlName="author" placeholder="Author">
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Profile Link">
+                            <input type="text" class="form-control" formControlName="profileLink"
+                                placeholder="Profile Link">
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Tags">
+                            <input type="text" class="form-control" formControlName="tags" placeholder="Tags">
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Content">
+                            <input type="text" class="form-control" formControlName="content" placeholder="Content">
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Link">
+                            <input type="text" class="form-control" formControlName="link" placeholder="Link">
                         </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-link  ml-auto" data-dismiss="modal"
+                            (click)="c('Close click')">Close</button>
+                        <button type="submit" class="btn btn-primary">Add Blog</button>
                     </div>
                 </form>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-link  ml-auto" data-dismiss="modal"
-                    (click)="c('Close click')">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
             </div>
         </div>
     </ng-template>
