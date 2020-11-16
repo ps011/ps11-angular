@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {BlogService} from '../services/blog.service';
-import {Blog} from '../blog/blog.interface';
+import {Blog} from '../interfaces/blog.interface';
 import { GoogleAnalyticsService } from '../services/google-analytics.service';
 import { Router } from '@angular/router';
 @Component({

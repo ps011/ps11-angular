@@ -3,16 +3,13 @@
       <!-- start single-blog -->
       <div class="col-sm-12">
         <article class="post">
-          <div>
+          <div class="post-header">
             <img src={{blog?.banner}} alt="Post Image" class="img-fluid post-image">
+              <h1 class="post-title">{{blog?.title}}</h1>
           </div><!-- end post-image -->
-          <div class="post-title container">
-            <h1>{{blog?.title}}</h1>
-          </div><!-- end post-title -->
-          <div class="post-meta container">
-            <span><i class="fa fa-user"></i><a href={{blog?.profileLink}}>{{blog.author}}</a></span>
-            <br>
-            <span><i class="fa fa-calendar"></i><a href="#">{{blog.date | date}}</a></span>
+          <div class="container my-4">
+            <span class="mx-4"><i class="fa fa-user mr-2"></i><a href={{blog?.profileLink}}>{{blog?.author}}</a></span>
+            <span class="mx-4"><i class="fa fa-calendar mr-2"></i><a href="#">{{blog?.date | date}}</a></span>
           </div><!-- end post-meta -->
 
           <div class="post-body container">
@@ -24,17 +21,17 @@
             <span>Share this Post:</span>
             <ul class="list-inline list-social">
               <li>
-                <a href="#" class="social-icon social-icon-small social-icon-colored social-icon-facebook">
+                <a [href]="fbSharingUrl" target="_blank" class="social-icon social-icon-colored social-icon-facebook">
                   <i class="fa fa-facebook"></i>
                 </a>
               </li>
               <li>
-                <a href="#" class="social-icon social-icon-small social-icon-colored social-icon-twitter">
+                <a [href]="twitterSharingUrl" target="_blank" class="social-icon social-icon-colored social-icon-twitter">
                   <i class="fa fa-twitter"></i>
                 </a>
               </li>
               <li>
-                <a href="#" class="social-icon social-icon-small social-icon-colored social-icon-linkedin">
+                <a [href]="linkedinSharingUrl" target="_blank" class="social-icon social-icon-colored social-icon-linkedin">
                   <i class="fa fa-linkedin"></i>
                 </a>
               </li>
