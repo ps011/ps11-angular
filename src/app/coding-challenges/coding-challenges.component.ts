@@ -57,7 +57,7 @@ export class CodingChallengesComponent implements AfterViewInit {
   }
 
   ngAfterViewInit() {
-    new GitHubCalendar(".calendar", "ps011");
+    new GitHubCalendar(".calendar", "ps011", {responsive: true});
   }
 
 
