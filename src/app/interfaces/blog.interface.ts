@@ -12,6 +12,7 @@ export interface Blog {
   profileLink: string;
   tags: string;
   content: string;
+  hidden: boolean;
   date: Date;
 }
 
