@@ -13,16 +13,16 @@ jobs:
 
       - name: Build and Push
         run: |
-          run: npm install
-          run: npm run build
-          run: cd dist/browser
-          run: ls -l
-          run: cd browser
-          run: git init
-          run: git checkout -b master
-          run: git add .
-          run: git -c user.name='ps11_builder' -c user.email='ps11_builder' commit -m init
-          run: git push -f  https://ps011:$GITHUB_TOKEN@github.com/ps011/ps011.github.io.git master
-          env:
+           npm install
+           npm run build
+           cd dist/browser
+           ls -l
+           cd browser
+           git init
+           git checkout -b master
+           git add .
+           git -c user.name='ps11_builder' -c user.email='ps11_builder' commit -m init
+           git push -f  https://ps011:$GITHUB_TOKEN@github.com/ps011/ps011.github.io.git master
+           env:
             DEFAULT_BRANCH: develop
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
