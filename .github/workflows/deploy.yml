@@ -12,7 +12,8 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Build and Push
-        run: npm run build
+        run: npm install
+      - run: npm run build
       - run: cd dist
       - run: cd browser
       - run: git init
