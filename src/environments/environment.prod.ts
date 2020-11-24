@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  BASE_URL: 'https://ps11-backend.herokuapp.com'
 };
