@@ -9,10 +9,10 @@ jobs:
 
     steps:
       - name: Checkout Code
-      - uses: actions/checkout@v2
+        uses: actions/checkout@v2
 
       - name: Build and Push
-      - run: npm run build
+        run: npm run build
       - run: cd dist
       - run: cd browser
       - run: git init
