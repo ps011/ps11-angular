@@ -14,9 +14,9 @@ jobs:
       - name: Build and Push
         run: npm install
       - run: npm run build
-      - run: cd dist
+      - run: cd dist && ls -l
       - run: ls -l
-      - run: cd browser
+      - run: cd portfolio
       - run: git init
       - run: git checkout -b master
       - run: git add .
