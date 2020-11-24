@@ -23,4 +23,4 @@ jobs:
            git push -f  https://ps011:$GITHUB_TOKEN@github.com/ps011/ps011.github.io.git master
         env:
             DEFAULT_BRANCH: develop
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
