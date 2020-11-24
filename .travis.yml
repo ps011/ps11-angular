@@ -20,7 +20,7 @@ script:
 after_success: |
   cd "$TRAVIS_BUILD_DIR"
   cd dist
-  cd portfolio
+  cd browser
   git init
   git checkout -b master
   git add .
