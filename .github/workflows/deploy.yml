@@ -1,0 +1,25 @@
+name: Deploy to GitHub Pages
+
+on: push
+
+jobs:
+  deploy-to-pages:
+    name: Deploy Code to GitHub Pages
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Build and Push
+      - run: npm run build
+      - run: cd dist
+      - run: cd browser
+      - run: git init
+      - run: git checkout -b master
+      - run: git add .
+      - run: git -c user.name='ps11_builder' -c user.email='ps11_builder' commit -m init
+      - run: git push -f  https://ps011:$GITHUB_TOKEN@github.com/ps011/ps011.github.io.git master
+        env:
+          DEFAULT_BRANCH: develop
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
