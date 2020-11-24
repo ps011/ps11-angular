@@ -15,6 +15,7 @@ jobs:
         run: npm install
       - run: npm run build
       - run: cd dist
+      - run: ls -l
       - run: cd browser
       - run: git init
       - run: git checkout -b master
